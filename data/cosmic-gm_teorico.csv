@@ -1,0 +1,370 @@
+Gene Name,Transcript,Census Tier 1,Sample Name,Sample ID,AA Mutation,CDS Mutation,Primary Tissue,Tissue Subtype 1,Tissue Subtype 2,Histology,Histology Subtype 1,Histology Subtype 2,Pubmed Id,CGP Study,Somatic Status,Sample Type,Zygosity,Genomic Co-ordinates
+ZWINT,ENST00000373944.7,No,TI1706140127LD01,3025641,p.?,c.*735C>T,Oesophagus,NS,NS,Carcinoma,Squamous cell carcinoma,NS,32398863,-,Confirmed Somatic,Tumour Sample,Heterozygous,10:56357492..56357492
+ZWINT,ENST00000373944.7,No,RK086_C01,1918865,p.?,c.*656G>A,Liver,NS,NS,Carcinoma,NS,NS,-,322,Variant of unknown origin,Tumour Sample,Heterozygous,10:56357571..56357571
+ZWINT,ENST00000373944.7,No,PCSI_0164_Pa_P_526,2197243,p.?,c.*510C>A,Pancreas,NS,NS,Carcinoma,Ductal carcinoma,NS,-,382,Confirmed Somatic,Unknown,Unknown,10:56357717..56357717
+ZWINT,ENST00000373944.7,No,tumor_4188900,2121037,p.?,c.*492C>T,Haematopoietic and lymphoid,NS,NS,Lymphoid neoplasm,NS,NS,-,440,Confirmed Somatic,Unknown,Unknown,10:56357735..56357735
+ZWINT,ENST00000373944.7,No,U343,2491104,p.?,c.*441dup,Central nervous system,Brain,NS,Glioma,Astrocytoma Grade IV,Glioblastoma multiforme,26496030,-,Variant of unknown origin,Cultured,Unknown,10:56357786..56357787
+ZWINT,ENST00000373944.7,No,LN229,2491102,p.?,c.*441dup,Central nervous system,Brain,NS,Glioma,Astrocytoma Grade IV,Glioblastoma multiforme,26496030,-,Variant of unknown origin,Cultured,Unknown,10:56357786..56357787
+ZWINT,ENST00000373944.7,No,TCGA-DD-AACI-01,2340543,p.?,c.*315A>G,Liver,NS,NS,Carcinoma,Hepatocellular carcinoma,NS,-,628,Confirmed Somatic,Tumour Sample,Unknown,10:56357912..56357912
+ZWINT,ENST00000373944.7,No,TCGA-92-7340-01,2195008,p.?,c.*199G>T,Lung,NS,NS,Carcinoma,Squamous cell carcinoma,NS,-,418,Confirmed Somatic,Unknown,Unknown,10:56358028..56358028
+ZWINT,ENST00000373944.7,No,TCGA-05-4382-01,1780053,p.?,c.*194A>T,Lung,NS,NS,Carcinoma,Adenocarcinoma,NS,-,417,Confirmed Somatic,Tumour Sample,Unknown,10:56358033..56358033
+ZWINT,ENST00000373944.7,No,TCGA-NC-A5HR-01,2385913,p.?,c.*182G>T,Lung,NS,NS,Carcinoma,Squamous cell carcinoma,NS,-,418,Confirmed Somatic,Tumour Sample,Unknown,10:56358045..56358045
+ZWINT,ENST00000373944.7,No,GP13,2782243,p.?,c.*174G>T,Prostate,NS,NS,Carcinoma,NS,NS,26844274,-,Confirmed Somatic,Tumour Sample,Unknown,10:56358053..56358053
+ZWINT,ENST00000373944.7,No,TCGA-EE-A2MR-06,2121688,p.?,c.*169C>T,Skin,NS,NS,Malignant melanoma,NS,NS,-,540,Confirmed Somatic,Unknown,Unknown,10:56358058..56358058
+ZWINT,ENST00000373944.7,No,TCGA-LH-A9QB-06,2339960,p.?,c.*160G>A,Skin,NS,NS,Malignant melanoma,NS,NS,-,540,Confirmed Somatic,Unknown,Unknown,10:56358067..56358067
+ZWINT,ENST00000373944.7,No,TCGA-55-1595-01,1780179,p.?,c.*159G>T,Lung,NS,NS,Carcinoma,Adenocarcinoma,NS,-,417,Confirmed Somatic,Tumour Sample,Unknown,10:56358068..56358068
+ZWINT,ENST00000373944.7,No,TCGA-LH-A9QB-06,2339960,p.?,c.*159G>A,Skin,NS,NS,Malignant melanoma,NS,NS,-,540,Confirmed Somatic,Unknown,Unknown,10:56358068..56358068
+ZWINT,ENST00000373944.7,No,EOSRC-IN-2517,2902092,p.?,c.*155C>A,Large intestine,Rectum,NS,Carcinoma,Adenocarcinoma,NS,33262464,-,Confirmed Somatic,Tumour Sample,Unknown,10:56358072..56358072
+ZWINT,ENST00000373944.7,No,TCGA-CA-6718-01,1651189,p.?,c.*152A>C,Large intestine,Colon,Ascending,Carcinoma,Adenocarcinoma,NS,-,376,Confirmed Somatic,Unknown,Unknown,10:56358075..56358075
+ZWINT,ENST00000373944.7,No,TCGA-95-7043-01,1914101,p.?,c.*136G>T,Lung,Right upper lobe,NS,Carcinoma,Adenocarcinoma,NS,-,417,Confirmed Somatic,Tumour Sample,Unknown,10:56358091..56358091
+ZWINT,ENST00000373944.7,No,ESO-1594,1890913,p.?,c.*126A>C,Stomach,Gastroesophageal junction,NS,Carcinoma,Adenocarcinoma,NS,23525077,-,Variant of unknown origin,Tumour Sample,Unknown,10:56358101..56358101
+ZWINT,ENST00000373944.7,No,CHG-2010-22780T,2634352,p.?,c.*123C>A,Liver,NS,NS,Other,Neoplasm,NS,-,660,Confirmed Somatic,Tumour Sample,Unknown,10:56358104..56358104
+ZWINT,ENST00000373944.7,No,WGC111843D,3025898,p.?,c.*102C>T,Oesophagus,NS,NS,Carcinoma,Squamous cell carcinoma,NS,32398863,-,Confirmed Somatic,Tumour Sample,Heterozygous,10:56358125..56358125
+ZWINT,ENST00000373944.7,No,TCGA-CN-A640-01,2340154,p.?,c.*102C>G,Upper aerodigestive tract,Head neck,NS,Carcinoma,Squamous cell carcinoma,NS,-,627,Confirmed Somatic,Tumour Sample,Unknown,10:56358125..56358125
+ZWINT,ENST00000373944.7,No,CGOV160T,3026405,p.?,c.*96T>C,Ovary,NS,NS,Carcinoma,Endometrioid carcinoma,NS,40981433,-,Confirmed Somatic,Tumour Sample,Unknown,10:56358131..56358131
+ZWINT,ENST00000373944.7,No,TCGA-RC-A6M6-01,2457490,p.?,c.*94C>G,Liver,NS,NS,Carcinoma,Hepatocellular carcinoma,NS,-,628,Confirmed Somatic,Tumour Sample,Unknown,10:56358133..56358133
+ZWINT,ENST00000373944.7,No,I2L-P6-Tumor-Biopsy,2433472,p.?,c.*91A>T,Large intestine,Colon,Ascending,Carcinoma,Adenocarcinoma,NS,25957691,-,Confirmed Somatic,Unknown,Heterozygous,10:56358136..56358136
+ZWINT,ENST00000373944.7,No,I2L-P6-Tumor-Organoid,2433489,p.?,c.*91A>T,Large intestine,Colon,Ascending,Carcinoma,Adenocarcinoma,NS,25957691,-,Confirmed Somatic,Unknown,Heterozygous,10:56358136..56358136
+ZWINT,ENST00000373944.7,No,TCGA-DK-AA75-01,2385754,p.?,c.*89G>A,Urinary tract,Bladder,NS,Carcinoma,NS,NS,-,413,Confirmed Somatic,Tumour Sample,Unknown,10:56358138..56358138
+ZWINT,ENST00000373944.7,No,TCGA-BR-6452-01,2197940,p.?,c.*87G>A,Stomach,NS,NS,Carcinoma,Adenocarcinoma,NS,-,541,Confirmed Somatic,Unknown,Unknown,10:56358140..56358140
+ZWINT,ENST00000373944.7,No,TCGA-FI-A2D0-01,2198302,p.?,c.*82A>G,Endometrium,NS,NS,Carcinoma,Endometrioid carcinoma,NS,-,419,Confirmed Somatic,Unknown,Unknown,10:56358145..56358145
+ZWINT,ENST00000373944.7,No,IOB_09,2948392,p.?,c.*78G>C,Upper aerodigestive tract,Mouth,Buccal mucosa,Carcinoma,Squamous cell carcinoma,NS,34136393,-,Confirmed Somatic,Tumour Sample,Unknown,10:56358149..56358149
+ZWINT,ENST00000373944.7,No,CHG-100T,2634282,p.?,c.*67C>A,Liver,NS,NS,Other,Neoplasm,NS,-,660,Confirmed Somatic,Tumour Sample,Unknown,10:56358160..56358160
+ZWINT,ENST00000373944.7,No,TCGA-60-2703-01,2195191,p.?,c.*62C>A,Lung,NS,NS,Carcinoma,Squamous cell carcinoma,NS,-,418,Confirmed Somatic,Unknown,Unknown,10:56358165..56358165
+ZWINT,ENST00000373944.7,No,B6,3014318,p.?,c.*59C>T,Oesophagus,NS,NS,Carcinoma,Adenocarcinoma,NS,38637560,-,Variant of unknown origin,Tumour Sample,Unknown,10:56358168..56358168
+ZWINT,ENST00000373944.7,No,T444,2658601,p.?,c.*54C>T,Large intestine,NS,NS,Carcinoma,Adenocarcinoma,NS,27149842,-,Confirmed Somatic,Unknown,Unknown,10:56358173..56358173
+ZWINT,ENST00000373944.7,No,TCGA-EE-A29R-06,2121644,p.?,c.*53C>T,Skin,NS,NS,Malignant melanoma,NS,NS,-,540,Confirmed Somatic,Unknown,Unknown,10:56358174..56358174
+ZWINT,ENST00000373944.7,No,TCGA-05-4432-01,1780075,p.?,c.*42-2A>T,Lung,NS,NS,Carcinoma,Adenocarcinoma,NS,-,417,Confirmed Somatic,Tumour Sample,Unknown,10:56358187..56358187
+ZWINT,ENST00000373944.7,No,GCTK_394_T,2747548,p.?,c.*42-3C>T,Stomach,NS,NS,Carcinoma,NS,NS,-,683,Confirmed Somatic,Tumour Sample,Unknown,10:56358188..56358188
+ZWINT,ENST00000373944.7,No,TCGA-A5-A0GB-01,1783307,p.?,c.*42-16C>A,Endometrium,NS,NS,Carcinoma,Endometrioid carcinoma,NS,-,419,Confirmed Somatic,Tumour Sample,Unknown,10:56358201..56358201
+ZWINT,ENST00000373944.7,No,431,3037255,p.?,c.*42-29C>T,Oesophagus,NS,NS,Other,Barrett oesophagus,NS,29486792,-,Confirmed Somatic,Tumour Sample,Unknown,10:56358214..56358214
+ZWINT,ENST00000373944.7,No,TCGA-AX-A3G3-01,2198321,p.?,c.*42-32C>A,Endometrium,NS,NS,Carcinoma,Endometrioid carcinoma,NS,-,419,Confirmed Somatic,Unknown,Unknown,10:56358217..56358217
+ZWINT,ENST00000373944.7,No,TCGA-39-5011-01,2195042,p.?,c.*42-33C>T,Lung,NS,NS,Carcinoma,Squamous cell carcinoma,NS,-,418,Confirmed Somatic,Unknown,Unknown,10:56358218..56358218
+ZWINT,ENST00000373944.7,No,TCGA-AP-A051-01,1783330,p.?,c.*42-40G>A,Endometrium,NS,NS,Carcinoma,Endometrioid carcinoma,NS,-,419,Confirmed Somatic,Tumour Sample,Unknown,10:56358225..56358225
+ZWINT,ENST00000373944.7,No,TCGA-85-7696-01,2195128,p.?,c.*42-60A>G,Lung,NS,NS,Carcinoma,Squamous cell carcinoma,NS,-,418,Confirmed Somatic,Unknown,Unknown,10:56358245..56358245
+ZWINT,ENST00000373944.7,No,PCSI_0090_Pa_X,2121298,p.?,c.*42-67A>C,Pancreas,NS,NS,Carcinoma,Ductal carcinoma,NS,-,382,Confirmed Somatic,Unknown,Unknown,10:56358252..56358252
+ZWINT,ENST00000373944.7,No,TCGA-AY-6197-01,1651158,p.?,c.*42-78G>A,Large intestine,Caecum,NS,Carcinoma,Adenocarcinoma,NS,-,376,Confirmed Somatic,Unknown,Unknown,10:56358263..56358263
+ZWINT,ENST00000373944.7,No,TCGA-43-7658-01,2195054,p.?,c.*42-80G>T,Lung,NS,NS,Carcinoma,Squamous cell carcinoma,NS,-,418,Confirmed Somatic,Unknown,Unknown,10:56358265..56358265
+ZWINT,ENST00000373944.7,No,TCGA-AG-3883-01,1651559,p.?,c.*42-87A>G,Large intestine,Rectum,NS,Carcinoma,Adenocarcinoma,NS,-,375,Confirmed Somatic,Tumour Sample,Unknown,10:56358272..56358272
+ZWINT,ENST00000373944.7,No,TCGA-A8-A06X-01,1899672,p.?,c.*42-90C>G,Breast,NS,NS,Carcinoma,NS,NS,-,414,Confirmed Somatic,Tumour Sample,Unknown,10:56358275..56358275
+ZWINT,ENST00000373944.7,No,TCGA-F4-6856-01,1651313,p.?,c.*41+88T>A,Large intestine,Caecum,NS,Carcinoma,Adenocarcinoma,NS,-,376,Confirmed Somatic,Unknown,Unknown,10:56358289..56358289
+ZWINT,ENST00000373944.7,No,TCGA-IR-A3LA-01,2193391,p.?,c.*41+82G>C,Cervix,NS,NS,Carcinoma,Squamous cell carcinoma,NS,-,415,Confirmed Somatic,Unknown,Unknown,10:56358295..56358295
+ZWINT,ENST00000373944.7,No,TCGA-XK-AAIW-01,2339713,p.?,c.*41+27C>T,Prostate,NS,NS,Carcinoma,Adenocarcinoma,NS,-,435,Confirmed Somatic,Tumour Sample,Unknown,10:56358350..56358350
+ZWINT,ENST00000373944.7,No,TCGA-78-7159-01,1914063,p.?,c.*41+22G>T,Lung,Right upper lobe,NS,Carcinoma,Adenocarcinoma,NS,-,417,Confirmed Somatic,Tumour Sample,Unknown,10:56358355..56358355
+ZWINT,ENST00000373944.7,No,TCGA-23-1032-01,1474876,p.?,c.*41+1G>C,Ovary,NS,NS,Carcinoma,Serous carcinoma,NS,-,331,Confirmed Somatic,Tumour Sample,Unknown,10:56358376..56358376
+ZWINT,ENST00000373944.7,No,TCGA-B7-A5TI-01,2457338,p.?,c.*17A>G,Stomach,NS,NS,Carcinoma,Adenocarcinoma,NS,-,541,Confirmed Somatic,Tumour Sample,Unknown,10:56358401..56358401
+ZWINT,ENST00000373944.7,No,2_RESISTANT,2062380,p.?,c.*11del,NS,NS,NS,Malignant melanoma,NS,NS,24265154,-,Confirmed Somatic,Tumour Sample,Homozygous,10:56358408..56358408
+ZWINT,ENST00000373944.7,No,TCGA-F4-6570-01,1651303,p.?,c.*7G>A,Large intestine,Colon,Transverse,Carcinoma,Adenocarcinoma,NS,-,376,Confirmed Somatic,Unknown,Unknown,10:56358411..56358411
+ZWINT,ENST00000373944.7,No,TCGA-73-A9RS-01,2340202,p.*278Lext*12,c.833G>T,Lung,NS,NS,Carcinoma,Adenocarcinoma,NS,-,417,Confirmed Somatic,Tumour Sample,Unknown,10:56358419..56358419
+ZWINT,ENST00000373944.7,No,T140903,2658302,p.V274=,c.822A>G,Large intestine,NS,NS,Carcinoma,Adenocarcinoma,NS,27149842,-,Confirmed Somatic,Unknown,Unknown,10:56358430..56358430
+ZWINT,ENST00000373944.7,No,HCC3051,2776302,p.D273Y,c.817G>T,Lung,NS,NS,Carcinoma,Large cell carcinoma,NS,29681454,-,Variant of unknown origin,Cultured,Unknown,10:56358435..56358435
+ZWINT,ENST00000373944.7,No,TCGA-05-5428-01,1780081,p.D273N,c.817G>A,Lung,NS,NS,Carcinoma,Adenocarcinoma,NS,-,417,Variant of unknown origin,Tumour Sample,Unknown,10:56358435..56358435
+ZWINT,ENST00000373944.7,No,LUAD-NYU1051S,1765241,p.D273Y,c.817G>T,Lung,NS,NS,Carcinoma,Adenocarcinoma,NS,22980975,-,Variant of unknown origin,Tumour Sample,Unknown,10:56358435..56358435
+ZWINT,ENST00000373944.7,No,5-VS036-T1,2869861,p.P270H,c.809C>A,Skin,NS,NS,Carcinoma,Basal cell carcinoma,NS,26950094,-,Confirmed Somatic,Tumour Sample,Unknown,10:56358443..56358443
+ZWINT,ENST00000373944.7,No,AOCS-061-1-8,2196286,p.Q269=,c.807A>G,Ovary,NS,NS,Carcinoma,Mixed adenosquamous carcinoma,NS,-,585,Confirmed Somatic,Unknown,Unknown,10:56358445..56358445
+ZWINT,ENST00000373944.7,No,Pat_73_A,2492908,p.Q269K,c.805C>A,NS,NS,NS,Malignant melanoma,NS,NS,24265153,-,Confirmed Somatic,Tumour Sample,Unknown,10:56358447..56358447
+ZWINT,ENST00000373944.7,No,TCGA-AA-3952-01,1651074,p.Q269K,c.805C>A,Large intestine,Colon,Descending,Carcinoma,Adenocarcinoma,NS,22810696,376,Confirmed Somatic,Unknown,Unknown,10:56358447..56358447
+ZWINT,ENST00000373944.7,No,S00945,1759216,p.G267C,c.799G>T,Lung,NS,NS,Carcinoma,Small cell carcinoma,NS,22941188,-,Previously Reported,Tumour Sample,Unknown,10:56358453..56358453
+ZWINT,ENST00000373944.7,No,TCGA-49-6744-01,1780148,p.G267C,c.799G>T,Lung,NS,NS,Carcinoma,Adenocarcinoma,NS,-,417,Previously Reported,Tumour Sample,Unknown,10:56358453..56358453
+ZWINT,ENST00000373944.7,No,S00945_1,2480837,p.G267C,c.799G>T,Lung,NS,NS,Carcinoma,Small cell carcinoma,NS,26168399,-,Confirmed Somatic,Tumour Sample,Unknown,10:56358453..56358453
+ZWINT,ENST00000373944.7,No,P07-144,1691480,p.V266F,c.796G>T,Prostate,NS,NS,Carcinoma,NS,NS,22610119,-,Variant of unknown origin,Tumour Sample,Heterozygous,10:56358456..56358456
+ZWINT,ENST00000373944.7,No,2014_Lung_sq_78_T,2744949,p.?,c.792+48G>A,Lung,NS,NS,Carcinoma,NS,NS,-,583,Confirmed Somatic,Tumour Sample,Unknown,10:56358508..56358508
+ZWINT,ENST00000373944.7,No,H1385,2776319,p.?,c.792+1G>A,Lung,NS,NS,Carcinoma,Squamous cell carcinoma,NS,29681454,-,Variant of unknown origin,Cultured,Unknown,10:56358555..56358555
+ZWINT,ENST00000373944.7,No,ATL071,2488696,p.K264N,c.792G>C,Haematopoietic and lymphoid,NS,NS,Lymphoid neoplasm,Adult T cell lymphoma-leukaemia,NS,26437031,-,Confirmed Somatic,Unknown,Unknown,10:56358556..56358556
+ZWINT,ENST00000373944.7,No,ESS1T-Sca,3015474,p.F263L,c.787T>C,Oesophagus,NS,NS,Carcinoma,Squamous cell carcinoma,NS,39022845,-,Confirmed Somatic,Tumour Sample,Unknown,10:56358561..56358561
+ZWINT,ENST00000373944.7,No,2948887,2948887,p.S262=,c.786C>T,Skin,NS,NS,Malignant melanoma,NS,NS,26359337,-,Confirmed Somatic,Tumour Sample,Unknown,10:56358562..56358562
+ZWINT,ENST00000373944.7,No,TCGA-EE-A2A5-06,2121652,p.P259H,c.776C>A,Skin,NS,NS,Malignant melanoma,NS,NS,-,540,Confirmed Somatic,Unknown,Unknown,10:56358572..56358572
+ZWINT,ENST00000373944.7,No,TCGA-B6-A0RE-01,1899859,p.D258G,c.773A>G,Breast,NS,NS,Carcinoma,NS,NS,-,414,Confirmed Somatic,Tumour Sample,Unknown,10:56358575..56358575
+ZWINT,ENST00000373944.7,No,94074,2807571,p.D258H,c.772G>C,Stomach,NS,NS,Carcinoma,Adenocarcinoma,NS,24807215,-,Confirmed Somatic,Tumour Sample,Unknown,10:56358576..56358576
+ZWINT,ENST00000373944.7,No,TCGA-49-4506-01,1780141,p.G256W,c.766G>T,Lung,NS,NS,Carcinoma,Adenocarcinoma,NS,-,417,Variant of unknown origin,Tumour Sample,Unknown,10:56358582..56358582
+ZWINT,ENST00000373944.7,No,49M,2466837,p.T254I,c.761C>T,Skin,Neck,NS,Malignant melanoma,Desmoplastic,NS,26343386,-,Confirmed Somatic,Tumour Sample,Unknown,10:56358587..56358587
+ZWINT,ENST00000373944.7,No,TCGA-FU-A5XV-01,2193312,p.D253N,c.757G>A,Cervix,NS,NS,Carcinoma,Squamous cell carcinoma,NS,-,415,Confirmed Somatic,Unknown,Unknown,10:56358591..56358591
+ZWINT,ENST00000373944.7,No,TCGA-69-A59K-01,2194758,p.E248=,c.744G>A,Lung,NS,NS,Carcinoma,Adenocarcinoma,NS,-,417,Confirmed Somatic,Unknown,Unknown,10:56358604..56358604
+ZWINT,ENST00000373944.7,No,LICA-CN-HCC018T,2634065,p.Q247L,c.740A>T,Liver,NS,NS,Other,Neoplasm,NS,-,660,Confirmed Somatic,Tumour Sample,Unknown,10:56358608..56358608
+ZWINT,ENST00000373944.7,No,TCGA-58-8391-01,2195016,p.P246=,c.738C>T,Lung,NS,NS,Carcinoma,Squamous cell carcinoma,NS,-,418,Confirmed Somatic,Unknown,Unknown,10:56358610..56358610
+ZWINT,ENST00000373944.7,No,SNUH_G16_S1,2120552,p.R245Q,c.734G>A,Haematopoietic and lymphoid,NS,NS,Haematopoietic neoplasm,Acute myeloid leukaemia,NS,-,544,Confirmed Somatic,Unknown,Unknown,10:56358614..56358614
+ZWINT,ENST00000373944.7,No,KPOPBR-083-T,2633630,p.R245Q,c.734G>A,Breast,NS,NS,Carcinoma,NS,NS,-,669,Confirmed Somatic,Tumour Sample,Unknown,10:56358614..56358614
+ZWINT,ENST00000373944.7,No,T323,2658605,p.R245*,c.733C>T,Large intestine,NS,NS,Carcinoma,Adenocarcinoma,NS,27149842,-,Confirmed Somatic,Unknown,Unknown,10:56358615..56358615
+ZWINT,ENST00000373944.7,No,TCGA-W3-A824-06,2339485,p.R245*,c.733C>T,Skin,NS,NS,Malignant melanoma,NS,NS,-,540,Confirmed Somatic,Unknown,Unknown,10:56358615..56358615
+ZWINT,ENST00000373944.7,No,G747T,2967153,p.R245*,c.733C>T,Skin,NS,NS,Malignant melanoma,Spitzoid,NS,28186096,-,Confirmed Somatic,Tumour Sample,Unknown,10:56358615..56358615
+ZWINT,ENST00000373944.7,No,TCGA-CI-6624-01,1651595,p.T244=,c.732T>C,Large intestine,Rectum,NS,Carcinoma,Adenocarcinoma,NS,-,375,Confirmed Somatic,Tumour Sample,Unknown,10:56358616..56358616
+ZWINT,ENST00000373944.7,No,PCSI0048,1815624,p.P243=,c.729G>T,Pancreas,NS,NS,Carcinoma,Ductal carcinoma,NS,23103869,-,Confirmed Somatic,Tumour Sample,Unknown,10:56358619..56358619
+ZWINT,ENST00000373944.7,No,PCSI_0048_Pa_P_526,2197258,p.P243=,c.729G>T,Pancreas,NS,NS,Carcinoma,Ductal carcinoma,NS,-,382,Confirmed Somatic,Unknown,Unknown,10:56358619..56358619
+ZWINT,ENST00000373944.7,No,PCSI_0048_Pa_P,1653156,p.P243=,c.729G>T,Pancreas,NS,NS,Carcinoma,Ductal carcinoma,NS,-,382,Previously Reported,Tumour Sample,Heterozygous,10:56358619..56358619
+ZWINT,ENST00000373944.7,No,TCGA-BT-A20R-01,1898081,p.D237E,c.711T>A,Urinary tract,Bladder,NS,Carcinoma,NS,NS,-,413,Confirmed Somatic,Tumour Sample,Unknown,10:56358637..56358637
+ZWINT,ENST00000373944.7,No,TCGA-Q1-A73O-01,2340268,p.P236L,c.707C>T,Cervix,NS,NS,Carcinoma,Squamous cell carcinoma,NS,-,415,Confirmed Somatic,Tumour Sample,Unknown,10:56358641..56358641
+ZWINT,ENST00000373944.7,No,SH2-E,3026090,p.L235F,c.703C>T,Oesophagus,NS,NS,Carcinoma,Squamous cell carcinoma,NS,36261585,-,Confirmed Somatic,Tumour Sample,Unknown,10:56358645..56358645
+ZWINT,ENST00000373944.7,No,425,2267397,p.A232S,c.694G>T,Oesophagus,Lower third,NS,Carcinoma,Squamous cell carcinoma,NS,25151357,-,Confirmed Somatic,Tumour Sample,Unknown,10:56358654..56358654
+ZWINT,ENST00000373944.7,No,ESCC_46,2479554,p.E229D,c.687G>T,Oesophagus,NS,NS,Carcinoma,Squamous cell carcinoma,NS,26873401,-,Confirmed Somatic,Unknown,Unknown,10:56358661..56358661
+ZWINT,ENST00000373944.7,No,TCGA-19-1787-01,2178217,p.E229D,c.687G>T,Central nervous system,Brain,NS,Glioma,Astrocytoma Grade IV,Glioblastoma multiforme,-,329,Confirmed Somatic,Unknown,Unknown,10:56358661..56358661
+ZWINT,ENST00000373944.7,No,SJETV103,2940635,p.E229K,c.685G>A,Haematopoietic and lymphoid,NS,NS,Lymphoid neoplasm,Acute lymphoblastic B cell leukaemia,NS,36050548,-,Confirmed Somatic,Tumour Sample,Unknown,10:56358663..56358663
+ZWINT,ENST00000373944.7,No,TCGA-D3-A1Q3-06,2121499,p.E227D,c.681G>T,Skin,NS,NS,Malignant melanoma,NS,NS,-,540,Confirmed Somatic,Unknown,Unknown,10:56358667..56358667
+ZWINT,ENST00000373944.7,No,2640248,2640248,p.P226H,c.677C>A,Large intestine,Rectum,NS,Carcinoma,Adenocarcinoma,NS,27612425,-,Confirmed Somatic,Tumour Sample,Unknown,10:56358671..56358671
+ZWINT,ENST00000373944.7,No,GC9_primary,2997278,p.F225=,c.675C>T,Stomach,NS,NS,Carcinoma,Adenocarcinoma,NS,30132154,-,Confirmed Somatic,Tumour Sample,Unknown,10:56358673..56358673
+ZWINT,ENST00000373944.7,No,TCGA-BR-8363-01,2197924,p.F225I,c.673T>A,Stomach,NS,NS,Carcinoma,Adenocarcinoma,NS,-,541,Confirmed Somatic,Unknown,Unknown,10:56358675..56358675
+ZWINT,ENST00000373944.7,No,FR9547,2949810,p.G221V,c.662G>T,Lung,NS,NS,Carcinoma,Adenocarcinoma,NS,25765070,-,Confirmed Somatic,Tumour Sample,Unknown,10:56358686..56358686
+ZWINT,ENST00000373944.7,No,2974350,2974350,p.G221D,c.662G>A,Breast,NS,NS,Carcinoma,Lobular carcinoma,NS,34690920,-,Variant of unknown origin,Tumour Sample,Unknown,10:56358686..56358686
+ZWINT,ENST00000373944.7,No,ESCC09-T1,2645773,p.Q220L,c.659A>T,Oesophagus,NS,NS,Carcinoma,Squamous cell carcinoma,NS,27749841,-,Confirmed Somatic,Tumour Sample,Unknown,10:56358689..56358689
+ZWINT,ENST00000373944.7,No,ESCC09-T4,2645811,p.Q220L,c.659A>T,Oesophagus,NS,NS,Carcinoma,Squamous cell carcinoma,NS,27749841,-,Confirmed Somatic,Tumour Sample,Unknown,10:56358689..56358689
+ZWINT,ENST00000373944.7,No,ESCC09-T3,2645798,p.Q220L,c.659A>T,Oesophagus,NS,NS,Carcinoma,Squamous cell carcinoma,NS,27749841,-,Confirmed Somatic,Tumour Sample,Unknown,10:56358689..56358689
+ZWINT,ENST00000373944.7,No,ESCC09-T2,2645786,p.Q220L,c.659A>T,Oesophagus,NS,NS,Carcinoma,Squamous cell carcinoma,NS,27749841,-,Confirmed Somatic,Tumour Sample,Unknown,10:56358689..56358689
+ZWINT,ENST00000373944.7,No,C11C,2996404,p.Q220*,c.658C>T,Large intestine,Rectum,NS,Carcinoma,Adenocarcinoma,NS,32023847,-,Confirmed Somatic,Tumour Sample,Unknown,10:56358690..56358690
+ZWINT,ENST00000373944.7,No,TCGA-SJ-A6ZI-01,2386250,p.Q220*,c.658C>T,Endometrium,NS,NS,Carcinoma,Endometrioid carcinoma,NS,-,419,Confirmed Somatic,Tumour Sample,Unknown,10:56358690..56358690
+ZWINT,ENST00000373944.7,No,T2281,2658350,p.T218=,c.654C>A,Large intestine,NS,NS,Carcinoma,Adenocarcinoma,NS,27149842,-,Confirmed Somatic,Unknown,Unknown,10:56358694..56358694
+ZWINT,ENST00000373944.7,No,2014_Lung_sq_73_T,2744944,p.L216=,c.648G>T,Lung,NS,NS,Carcinoma,NS,NS,-,583,Confirmed Somatic,Tumour Sample,Unknown,10:56358700..56358700
+ZWINT,ENST00000373944.7,No,TCGA-95-A4VN-01,2339656,p.L215F,c.643C>T,Lung,NS,NS,Carcinoma,Adenocarcinoma,NS,-,417,Confirmed Somatic,Tumour Sample,Unknown,10:56358705..56358705
+ZWINT,ENST00000373944.7,No,TCGA-XF-A8HD-01,2263159,p.L213=,c.639C>T,Urinary tract,Bladder,NS,Carcinoma,NS,NS,-,413,Confirmed Somatic,Tumour Sample,Unknown,10:56358709..56358709
+ZWINT,ENST00000373944.7,No,CME_0001_Pa_C,2121244,p.Y209*,c.627T>G,Pancreas,NS,NS,Carcinoma,Ductal carcinoma,NS,-,382,Confirmed Somatic,Unknown,Unknown,10:56358721..56358721
+ZWINT,ENST00000373944.7,No,S00833_1,2480822,p.Y209C,c.626A>G,Lung,NS,NS,Carcinoma,Small cell carcinoma,NS,26168399,-,Confirmed Somatic,Tumour Sample,Unknown,10:56358722..56358722
+ZWINT,ENST00000373944.7,No,TCGA-KC-A4BV-01,2385956,p.R208S,c.624G>T,Prostate,NS,NS,Carcinoma,Adenocarcinoma,NS,-,435,Confirmed Somatic,Tumour Sample,Unknown,10:56358724..56358724
+ZWINT,ENST00000373944.7,No,T621,2658521,p.?,c.624-1G>A,Large intestine,NS,NS,Carcinoma,Adenocarcinoma,NS,27149842,-,Confirmed Somatic,Unknown,Unknown,10:56358725..56358725
+ZWINT,ENST00000373944.7,No,YYY-274T,2633956,p.?,c.624-18C>T,Stomach,NS,NS,Carcinoma,NS,NS,-,371,Confirmed Somatic,Tumour Sample,Unknown,10:56358742..56358742
+ZWINT,ENST00000373944.7,No,TCGA-A6-3809-01,1901050,p.?,c.623+39C>T,Large intestine,Colon,Transverse,Carcinoma,Adenocarcinoma,NS,22810696,376,Confirmed Somatic,Tumour Sample,Unknown,10:56358766..56358766
+ZWINT,ENST00000373944.7,No,PCSI_0037_Pa_X,2121267,p.?,c.623+19G>A,Pancreas,NS,NS,Carcinoma,Ductal carcinoma,NS,-,382,Confirmed Somatic,Unknown,Unknown,10:56358786..56358786
+ZWINT,ENST00000373944.7,No,CRC422,2730860,p.?,c.623+4A>G,Large intestine,Colon,NS,Carcinoma,Adenocarcinoma,NS,26416732,-,Confirmed Somatic,Cultured,Unknown,10:56358801..56358801
+ZWINT,ENST00000373944.7,No,TCGA-BR-4253-01,2197946,p.?,c.623+1G>A,Stomach,NS,NS,Carcinoma,Adenocarcinoma,NS,-,541,Confirmed Somatic,Unknown,Unknown,10:56358804..56358804
+ZWINT,ENST00000373944.7,No,HN1_RT0,2963385,p.Q207H,c.621G>C,Upper aerodigestive tract,Mouth,Buccal mucosa,Carcinoma,Squamous cell carcinoma,NS,37918550,-,Confirmed Somatic,Tumour Sample,Unknown,10:56358807..56358807
+ZWINT,ENST00000373944.7,No,HN1_RT6,2963387,p.Q207H,c.621G>C,Upper aerodigestive tract,Mouth,Buccal mucosa,Carcinoma,Squamous cell carcinoma,NS,37918550,-,Confirmed Somatic,Tumour Sample,Unknown,10:56358807..56358807
+ZWINT,ENST00000373944.7,No,HN1_RT3,2963386,p.Q207H,c.621G>C,Upper aerodigestive tract,Mouth,Buccal mucosa,Carcinoma,Squamous cell carcinoma,NS,37918550,-,Confirmed Somatic,Tumour Sample,Unknown,10:56358807..56358807
+ZWINT,ENST00000373944.7,No,TCGA-CV-7089-01,2193854,p.K205N,c.615G>C,Upper aerodigestive tract,Head neck,NS,Carcinoma,Squamous cell carcinoma,NS,-,627,Confirmed Somatic,Unknown,Unknown,10:56358813..56358813
+ZWINT,ENST00000373944.7,No,T3025,2658315,p.K205T,c.614A>C,Large intestine,NS,NS,Carcinoma,Adenocarcinoma,NS,27149842,-,Confirmed Somatic,Unknown,Unknown,10:56358814..56358814
+ZWINT,ENST00000373944.7,No,TCGA-E1-A7YE-01,2457420,p.K205Q,c.613A>C,Central nervous system,Brain,NS,Glioma,NS,NS,-,545,Confirmed Somatic,Tumour Sample,Unknown,10:56358815..56358815
+ZWINT,ENST00000373944.7,No,LUAD-B02594,1765249,p.R203=,c.609G>T,Lung,NS,NS,Carcinoma,Adenocarcinoma,NS,22980975,-,Variant of unknown origin,Tumour Sample,Unknown,10:56358819..56358819
+ZWINT,ENST00000373944.7,No,sysucc-834T,2456756,p.R203Q,c.608G>A,Large intestine,NS,NS,Carcinoma,Adenocarcinoma,NS,-,646,Confirmed Somatic,Tumour Sample,Unknown,10:56358820..56358820
+ZWINT,ENST00000373944.7,No,HKNPC-033-Tumor-SM-64MFS,2640132,p.R203Q,c.608G>A,Upper aerodigestive tract,Pharynx,Nasopharynx,Carcinoma,Nasopharyngeal carcinoma,NS,28098136,-,Confirmed Somatic,Tumour Sample,Unknown,10:56358820..56358820
+ZWINT,ENST00000373944.7,No,NET_28_29_16,3001186,p.R203Q,c.608G>A,Cervix,NS,NS,Carcinoma,Large cell neuroendocrine carcinoma,NS,38625939,-,Confirmed Somatic,Tumour Sample,Unknown,10:56358820..56358820
+ZWINT,ENST00000373944.7,No,CG43,2816745,p.R203W,c.607C>T,Large intestine,Colon,Right,Carcinoma,Adenocarcinoma,NS,29937994,-,Confirmed Somatic,Tumour Sample,Unknown,10:56358821..56358821
+ZWINT,ENST00000373944.7,No,EC18,2906917,p.A199V,c.596C>T,Endometrium,NS,NS,Carcinoma,Endometrioid carcinoma,NS,33016334,-,Confirmed Somatic,Tumour Sample,Unknown,10:56358832..56358832
+ZWINT,ENST00000373944.7,No,TCGA-BR-8286-01,2197972,p.A199V,c.596C>T,Stomach,NS,NS,Carcinoma,Adenocarcinoma,NS,-,541,Confirmed Somatic,Unknown,Unknown,10:56358832..56358832
+ZWINT,ENST00000373944.7,No,873LC,2637293,p.Q198H,c.594G>T,Lung,NS,NS,Carcinoma,Squamous cell carcinoma,NS,26503331,-,Confirmed Somatic,Tumour Sample,Heterozygous,10:56358834..56358834
+ZWINT,ENST00000373944.7,No,LICA-CN-HCC066T,2634113,p.Q198L,c.593A>T,Liver,NS,NS,Other,Neoplasm,NS,-,660,Confirmed Somatic,Tumour Sample,Unknown,10:56358835..56358835
+ZWINT,ENST00000373944.7,No,TCGA-DD-A1EF-01,2194547,p.Q197=,c.591G>A,Liver,NS,NS,Carcinoma,Hepatocellular carcinoma,NS,-,628,Confirmed Somatic,Unknown,Unknown,10:56358837..56358837
+ZWINT,ENST00000373944.7,No,BD72T,2459936,p.Q197*,c.589C>T,Biliary tract,Bile duct,NS,Carcinoma,NS,NS,-,658,Confirmed Somatic,Tumour Sample,Unknown,10:56358839..56358839
+ZWINT,ENST00000373944.7,No,MSU1-c,2809978,p.Q197*,c.589C>T,Large intestine,Colon,Ascending,Carcinoma,Adenocarcinoma,NS,26336987,-,Confirmed Somatic,Tumour Sample,Unknown,10:56358839..56358839
+ZWINT,ENST00000373944.7,No,MSU1-a,2809970,p.Q197*,c.589C>T,Large intestine,Colon,Ascending,Adenoma,Tubulovillous,High grade dysplasia,26336987,-,Confirmed Somatic,Tumour Sample,Unknown,10:56358839..56358839
+ZWINT,ENST00000373944.7,No,TCGA-FP-A4BF-01,2198070,p.G193E,c.578G>A,Stomach,NS,NS,Carcinoma,Adenocarcinoma,NS,-,541,Confirmed Somatic,Unknown,Unknown,10:56358850..56358850
+ZWINT,ENST00000373944.7,No,TCGA-BR-8059-01,2197916,p.L192F,c.574C>T,Stomach,NS,NS,Carcinoma,Adenocarcinoma,NS,-,541,Confirmed Somatic,Unknown,Unknown,10:56358854..56358854
+ZWINT,ENST00000373944.7,No,PAKMUB-d,2679330,p.Q190L,c.569A>T,Kidney,NS,NS,Wilms tumour,NS,NS,28825729,-,Confirmed Somatic,Tumour Sample,Heterozygous,10:56358859..56358859
+ZWINT,ENST00000373944.7,No,TARGET-50-PAKMUB-01A-02D,2459677,p.Q190L,c.569A>T,Kidney,NS,NS,Wilms tumour,NS,NS,-,657,Confirmed Somatic,Tumour Sample,Unknown,10:56358859..56358859
+ZWINT,ENST00000373944.7,No,T613,2296257,p.V188=,c.564G>A,Large intestine,Caecum,NS,Carcinoma,Adenocarcinoma,NS,25344691,-,Confirmed Somatic,Unknown,Unknown,10:56358864..56358864
+ZWINT,ENST00000373944.7,No,T613,2658377,p.V188=,c.564G>A,Large intestine,NS,NS,Carcinoma,Adenocarcinoma,NS,27149842,-,Confirmed Somatic,Unknown,Unknown,10:56358864..56358864
+ZWINT,ENST00000373944.7,No,Pat_41_B,2513797,p.V188M,c.562G>A,NS,NS,NS,Malignant melanoma,NS,NS,24265153,-,Confirmed Somatic,Tumour Sample,Unknown,10:56358866..56358866
+ZWINT,ENST00000373944.7,No,2948419,2948419,p.R187S,c.561G>C,Haematopoietic and lymphoid,Jaw,NS,Lymphoid neoplasm,Burkitt lymphoma,Endemic variant,26468873,-,Variant of unknown origin,Tumour Sample,Unknown,10:56358867..56358867
+ZWINT,ENST00000373944.7,No,1,2961825,p.R187G,c.559A>G,Urinary tract,Bladder,NS,Carcinoma,Transitional cell carcinoma,Papillary transitional cell carcinoma non invasive,30176882,-,Confirmed Somatic,Tumour Sample,Unknown,10:56358869..56358869
+ZWINT,ENST00000373944.7,No,tumor_4131744,2195327,p.R187G,c.559A>G,Haematopoietic and lymphoid,NS,NS,Lymphoid neoplasm,NS,NS,-,440,Confirmed Somatic,Unknown,Unknown,10:56358869..56358869
+ZWINT,ENST00000373944.7,No,G_2_1-106,2950133,p.R187G,c.559A>G,Small intestine,Duodenum,NS,Other,Brunner gland hyperplasia,NS,36991000,-,Confirmed Somatic,Tumour Sample,Unknown,10:56358869..56358869
+ZWINT,ENST00000373944.7,No,G_2-106,2950132,p.R187G,c.559A>G,Small intestine,Duodenum,NS,Other,Brunner gland hyperplasia,NS,36991000,-,Confirmed Somatic,Tumour Sample,Unknown,10:56358869..56358869
+ZWINT,ENST00000373944.7,No,2994267,2994267,p.R187G,c.559A>G,Cervix,NS,NS,Other,Lobular endocervical glandular hyperplasia,NS,39895895,-,Previously Reported,Tumour Sample,Unknown,10:56358869..56358869
+ZWINT,ENST00000373944.7,No,38,2955811,p.R187G,c.559A>G,Soft tissue,Fibrous tissue and uncertain origin,Gastrointestinal tract (site indeterminate),Gastrointestinal stromal tumour,NS,NS,31636198,-,Previously Reported,Tumour Sample,Unknown,10:56358869..56358869
+ZWINT,ENST00000373944.7,No,36,2955809,p.R187G,c.559A>G,Soft tissue,Fibrous tissue and uncertain origin,Gastrointestinal tract (site indeterminate),Gastrointestinal stromal tumour,NS,NS,31636198,-,Previously Reported,Tumour Sample,Unknown,10:56358869..56358869
+ZWINT,ENST00000373944.7,No,35,2955808,p.R187G,c.559A>G,Soft tissue,Fibrous tissue and uncertain origin,Gastrointestinal tract (site indeterminate),Gastrointestinal stromal tumour,NS,NS,31636198,-,Previously Reported,Tumour Sample,Unknown,10:56358869..56358869
+ZWINT,ENST00000373944.7,No,33,2955803,p.R187G,c.559A>G,Soft tissue,Fibrous tissue and uncertain origin,Gastrointestinal tract (site indeterminate),Gastrointestinal stromal tumour,NS,NS,31636198,-,Previously Reported,Tumour Sample,Unknown,10:56358869..56358869
+ZWINT,ENST00000373944.7,No,32,2955802,p.R187G,c.559A>G,Soft tissue,Fibrous tissue and uncertain origin,Gastrointestinal tract (site indeterminate),Gastrointestinal stromal tumour,NS,NS,31636198,-,Previously Reported,Tumour Sample,Unknown,10:56358869..56358869
+ZWINT,ENST00000373944.7,No,2,2961826,p.R187G,c.559A>G,Urinary tract,Renal pelvis,NS,Carcinoma,Transitional cell carcinoma,NS,30176882,-,Confirmed Somatic,Tumour Sample,Unknown,10:56358869..56358869
+ZWINT,ENST00000373944.7,No,3,2961827,p.R187G,c.559A>G,Urinary tract,Bladder,NS,Carcinoma,Transitional cell carcinoma,Papillary transitional cell carcinoma non invasive,30176882,-,Confirmed Somatic,Tumour Sample,Unknown,10:56358869..56358869
+ZWINT,ENST00000373944.7,No,10,2955773,p.R187G,c.559A>G,Soft tissue,Fibrous tissue and uncertain origin,Gastrointestinal tract (site indeterminate),Gastrointestinal stromal tumour,NS,NS,31636198,-,Previously Reported,Tumour Sample,Unknown,10:56358869..56358869
+ZWINT,ENST00000373944.7,No,27,2955794,p.R187G,c.559A>G,Soft tissue,Fibrous tissue and uncertain origin,Gastrointestinal tract (site indeterminate),Gastrointestinal stromal tumour,NS,NS,31636198,-,Previously Reported,Tumour Sample,Unknown,10:56358869..56358869
+ZWINT,ENST00000373944.7,No,30,2955800,p.R187G,c.559A>G,Soft tissue,Fibrous tissue and uncertain origin,Gastrointestinal tract (site indeterminate),Gastrointestinal stromal tumour,NS,NS,31636198,-,Previously Reported,Tumour Sample,Unknown,10:56358869..56358869
+ZWINT,ENST00000373944.7,No,SA05,3026000,p.D186N,c.556G>A,Haematopoietic and lymphoid,NS,NS,Lymphoid neoplasm,Diffuse large B cell lymphoma,NS,40634688,-,Confirmed Somatic,Tumour Sample,Unknown,10:56358872..56358872
+ZWINT,ENST00000373944.7,No,TCGA-E2-A1IN-01,1900168,p.D186H,c.556G>C,Breast,NS,NS,Carcinoma,NS,NS,-,414,Confirmed Somatic,Tumour Sample,Unknown,10:56358872..56358872
+ZWINT,ENST00000373944.7,No,TCGA-AA-3977-01,1651086,p.D186Y,c.556G>T,Large intestine,Colon,Sigmoid,Carcinoma,Adenocarcinoma,NS,22810696,376,Confirmed Somatic,Unknown,Unknown,10:56358872..56358872
+ZWINT,ENST00000373944.7,No,2857123,2857123,p.Q182*,c.544C>T,Urinary tract,Bladder,NS,Carcinoma,Transitional cell carcinoma,NS,25096233,-,Confirmed Somatic,Tumour Sample,Unknown,10:56358884..56358884
+ZWINT,ENST00000373944.7,No,TCGA-AA-A024-01,1651126,p.T181S,c.541A>T,Large intestine,Colon,Descending,Carcinoma,Adenocarcinoma,NS,22810696,376,Confirmed Somatic,Unknown,Unknown,10:56358887..56358887
+ZWINT,ENST00000373944.7,No,2948427,2948427,p.R177H,c.530G>A,Haematopoietic and lymphoid,Jaw,NS,Lymphoid neoplasm,Burkitt lymphoma,Endemic variant,26468873,-,Previously Reported,Tumour Sample,Unknown,10:56358898..56358898
+ZWINT,ENST00000373944.7,No,TCGA-AJ-A3OK-01,2198436,p.R177H,c.530G>A,Endometrium,NS,NS,Carcinoma,Endometrioid carcinoma,NS,-,419,Confirmed Somatic,Unknown,Unknown,10:56358898..56358898
+ZWINT,ENST00000373944.7,No,A12-2A,2746130,p.R177C,c.529C>T,Large intestine,NS,NS,Carcinoma,Adenocarcinoma,NS,-,646,Confirmed Somatic,Tumour Sample,Unknown,10:56358899..56358899
+ZWINT,ENST00000373944.7,No,TCGA-BR-8363-01,2197924,p.R177C,c.529C>T,Stomach,NS,NS,Carcinoma,Adenocarcinoma,NS,-,541,Confirmed Somatic,Unknown,Unknown,10:56358899..56358899
+ZWINT,ENST00000373944.7,No,PCSI0007,1815634,p.R175=,c.525G>A,Pancreas,NS,NS,Carcinoma,Ductal carcinoma,NS,23103869,-,Confirmed Somatic,Tumour Sample,Unknown,10:56358903..56358903
+ZWINT,ENST00000373944.7,No,PCSI_0007_Pa_X,2121254,p.R175=,c.525G>A,Pancreas,NS,NS,Carcinoma,Ductal carcinoma,NS,-,382,Confirmed Somatic,Unknown,Unknown,10:56358903..56358903
+ZWINT,ENST00000373944.7,No,PCSI_0007_Pa_P,1653147,p.R175=,c.525G>A,Pancreas,NS,NS,Carcinoma,Ductal carcinoma,NS,-,382,Previously Reported,Tumour Sample,Heterozygous,10:56358903..56358903
+ZWINT,ENST00000373944.7,No,sysucc-1317T,2456722,p.A172V,c.515C>T,Large intestine,NS,NS,Carcinoma,Adenocarcinoma,NS,-,646,Confirmed Somatic,Tumour Sample,Unknown,10:56358913..56358913
+ZWINT,ENST00000373944.7,No,TCGA-49-AAR0-01,2385659,p.A172T,c.514G>A,Lung,NS,NS,Carcinoma,Adenocarcinoma,NS,-,417,Confirmed Somatic,Tumour Sample,Unknown,10:56358914..56358914
+ZWINT,ENST00000373944.7,No,Gp2D,2301973,p.S171P,c.511T>C,Large intestine,NS,NS,Carcinoma,Adenocarcinoma,NS,24755471,-,Variant of unknown origin,Cultured,Heterozygous,10:56358917..56358917
+ZWINT,ENST00000373944.7,No,129,2748101,p.V170I,c.508G>A,Stomach,NS,NS,Carcinoma,NS,NS,-,683,Confirmed Somatic,Tumour Sample,Unknown,10:56358920..56358920
+ZWINT,ENST00000373944.7,No,TCGA-IR-A3LL-01,2193392,p.E169*,c.505G>T,Cervix,NS,NS,Carcinoma,Squamous cell carcinoma,NS,-,415,Confirmed Somatic,Unknown,Unknown,10:56358923..56358923
+ZWINT,ENST00000373944.7,No,CGOV167T,3026451,p.H166Y,c.496C>T,Ovary,NS,NS,Carcinoma,Mucinous carcinoma,NS,40981433,-,Confirmed Somatic,Tumour Sample,Unknown,10:56358932..56358932
+ZWINT,ENST00000373944.7,No,TCGA-VQ-A91Z-01,2339760,p.Q165H,c.495G>T,Stomach,NS,NS,Carcinoma,Adenocarcinoma,NS,-,541,Confirmed Somatic,Tumour Sample,Unknown,10:56358933..56358933
+ZWINT,ENST00000373944.7,No,ESCC-010T,2186335,p.Q165L,c.494A>T,Oesophagus,NS,NS,Carcinoma,NS,NS,-,582,Confirmed Somatic,Unknown,Unknown,10:56358934..56358934
+ZWINT,ENST00000373944.7,No,TCGA-97-8179-01,2194872,p.E161*,c.481G>T,Lung,NS,NS,Carcinoma,Adenocarcinoma,NS,-,417,Confirmed Somatic,Unknown,Unknown,10:56358947..56358947
+ZWINT,ENST00000373944.7,No,TCGA-LA-A446-01,2195153,p.E161*,c.481G>T,Lung,NS,NS,Carcinoma,Squamous cell carcinoma,NS,-,418,Confirmed Somatic,Unknown,Unknown,10:56358947..56358947
+ZWINT,ENST00000373944.7,No,J10_T,2194943,p.?,c.481-1G>T,Lung,NS,NS,Carcinoma,Squamous cell carcinoma,NS,-,583,Confirmed Somatic,Unknown,Unknown,10:56358948..56358948
+ZWINT,ENST00000373944.7,No,2014_Lung_sq_01_T,2744872,p.?,c.481-1G>T,Lung,NS,NS,Carcinoma,NS,NS,-,583,Confirmed Somatic,Tumour Sample,Unknown,10:56358948..56358948
+ZWINT,ENST00000373944.7,No,Pat_59_A,2492898,p.?,c.481-1G>A,NS,NS,NS,Malignant melanoma,NS,NS,24265153,-,Confirmed Somatic,Tumour Sample,Unknown,10:56358948..56358948
+ZWINT,ENST00000373944.7,No,BD110T,2459735,p.?,c.481-8C>T,Biliary tract,Bile duct,NS,Carcinoma,NS,NS,-,658,Confirmed Somatic,Tumour Sample,Unknown,10:56358955..56358955
+ZWINT,ENST00000373944.7,No,833,3037228,p.?,c.481-12C>T,Oesophagus,NS,NS,Other,Barrett oesophagus,NS,29486792,-,Confirmed Somatic,Tumour Sample,Unknown,10:56358959..56358959
+ZWINT,ENST00000373944.7,No,HCC27,2120824,p.?,c.481-90C>T,Liver,NS,NS,Carcinoma,NS,NS,-,323,Confirmed Somatic,Unknown,Unknown,10:56359037..56359037
+ZWINT,ENST00000373944.7,No,HCC27T,2120825,p.?,c.481-90C>T,Liver,NS,NS,Carcinoma,NS,NS,-,323,Confirmed Somatic,Unknown,Unknown,10:56359037..56359037
+ZWINT,ENST00000373944.7,No,TCGA-AA-3492-01,1650967,p.?,c.481-113C>A,Large intestine,Colon,Ascending,Carcinoma,Adenocarcinoma,NS,22810696,376,Confirmed Somatic,Unknown,Unknown,10:56359060..56359060
+ZWINT,ENST00000373944.7,No,G_2-106,2950132,p.?,c.481-197G>C,Small intestine,Duodenum,NS,Other,Brunner gland hyperplasia,NS,36991000,-,Confirmed Somatic,Tumour Sample,Unknown,10:56359144..56359144
+ZWINT,ENST00000373944.7,No,G_2_1-106,2950133,p.?,c.481-197G>C,Small intestine,Duodenum,NS,Other,Brunner gland hyperplasia,NS,36991000,-,Confirmed Somatic,Tumour Sample,Unknown,10:56359144..56359144
+ZWINT,ENST00000373944.7,No,REBC-ACBP-TTP1,2967902,p.?,c.480+219C>G,Thyroid,NS,NS,Carcinoma,Papillary carcinoma,NS,33888599,-,Confirmed Somatic,Tumour Sample,Unknown,10:56359257..56359257
+ZWINT,ENST00000373944.7,No,AOCS-120-3-6,2186424,p.?,c.480+150C>T,Ovary,NS,NS,Carcinoma,Mixed adenosquamous carcinoma,NS,-,585,Confirmed Somatic,Unknown,Unknown,10:56359326..56359326
+ZWINT,ENST00000373944.7,No,RK259_C01,2339369,p.?,c.480+89C>T,Liver,NS,NS,Carcinoma,NS,NS,-,322,Confirmed Somatic,Tumour Sample,Unknown,10:56359387..56359387
+ZWINT,ENST00000373944.7,No,GCTK_424_T,2747457,p.?,c.480+65del,Stomach,NS,NS,Carcinoma,NS,NS,-,683,Confirmed Somatic,Tumour Sample,Unknown,10:56359414..56359414
+ZWINT,ENST00000373944.7,No,GC8_T,1645684,p.?,c.480+45C>T,Stomach,NS,NS,Carcinoma,Adenocarcinoma,NS,-,371,Previously Reported,Tumour Sample,Heterozygous,10:56359431..56359431
+ZWINT,ENST00000373944.7,No,pros_04_dx,2688206,p.?,c.480+45C>T,Haematopoietic and lymphoid,NS,NS,Haematopoietic neoplasm,Acute myeloid leukaemia,NS,-,544,Confirmed Somatic,Tumour Sample,Unknown,10:56359431..56359431
+ZWINT,ENST00000373944.7,No,TCGA-D5-6931-01,1651270,p.?,c.480+33C>T,Large intestine,Colon,Transverse,Carcinoma,Adenocarcinoma,NS,22810696,376,Confirmed Somatic,Unknown,Unknown,10:56359443..56359443
+ZWINT,ENST00000373944.7,No,TCGA-BR-8373-01,2197877,p.Q160H,c.480G>C,Stomach,NS,NS,Carcinoma,Adenocarcinoma,NS,-,541,Confirmed Somatic,Unknown,Unknown,10:56359476..56359476
+ZWINT,ENST00000373944.7,No,HCC90,2120898,p.L158=,c.474A>G,Liver,NS,NS,Carcinoma,NS,NS,-,323,Confirmed Somatic,Unknown,Unknown,10:56359482..56359482
+ZWINT,ENST00000373944.7,No,HCC90T,1919248,p.L158=,c.474A>G,Liver,NS,NS,Carcinoma,NS,NS,-,323,Previously Reported,Tumour Sample,Heterozygous,10:56359482..56359482
+ZWINT,ENST00000373944.7,No,ILMN09,2816769,p.L158Q,c.473T>A,Large intestine,Colon,Right,Carcinoma,Adenocarcinoma,NS,29937994,-,Confirmed Somatic,Tumour Sample,Unknown,10:56359483..56359483
+ZWINT,ENST00000373944.7,No,CSCC-7-T,2292460,p.V152=,c.456C>T,Skin,Head neck,NS,Carcinoma,Squamous cell carcinoma,NS,25303977,-,Confirmed Somatic,Tumour Sample,Heterozygous,10:56359500..56359500
+ZWINT,ENST00000373944.7,No,TCGA-BR-8373-01,2197877,p.V152=,c.456C>G,Stomach,NS,NS,Carcinoma,Adenocarcinoma,NS,-,541,Confirmed Somatic,Unknown,Unknown,10:56359500..56359500
+ZWINT,ENST00000373944.7,No,TCGA-CG-5726-01,2198104,p.V152A,c.455T>C,Stomach,NS,NS,Carcinoma,Adenocarcinoma,NS,-,541,Confirmed Somatic,Unknown,Unknown,10:56359501..56359501
+ZWINT,ENST00000373944.7,No,TCGA-A8-A094-01,1779383,p.A151E,c.452C>A,Breast,NS,NS,Carcinoma,NS,NS,-,414,Confirmed Somatic,Tumour Sample,Unknown,10:56359504..56359504
+ZWINT,ENST00000373944.7,No,2948001,2948001,p.R150T,c.449G>C,Haematopoietic and lymphoid,Jaw,NS,Lymphoid neoplasm,Burkitt lymphoma,Endemic variant,28465297,-,Variant of unknown origin,Tumour Sample,Unknown,10:56359507..56359507
+ZWINT,ENST00000373944.7,No,TCGA-WS-AB45-01,2340366,p.R149H,c.446G>A,Large intestine,Colon,NS,Carcinoma,Adenocarcinoma,NS,22810696,376,Confirmed Somatic,Tumour Sample,Unknown,10:56359510..56359510
+ZWINT,ENST00000373944.7,No,TCGA-AX-A1C5-01,2198272,p.E147*,c.439G>T,Endometrium,NS,NS,Carcinoma,Endometrioid carcinoma,NS,-,419,Confirmed Somatic,Unknown,Unknown,10:56359517..56359517
+ZWINT,ENST00000373944.7,No,TCGA-G4-6588-01,1651337,p.A145T,c.433G>A,Large intestine,Caecum,NS,Carcinoma,Adenocarcinoma,NS,22810696,376,Confirmed Somatic,Unknown,Unknown,10:56359523..56359523
+ZWINT,ENST00000373944.7,No,LUAD-B02077,1765204,p.Q143L,c.428A>T,Lung,NS,NS,Carcinoma,Adenocarcinoma,NS,22980975,-,Variant of unknown origin,Tumour Sample,Unknown,10:56359528..56359528
+ZWINT,ENST00000373944.7,No,TCGA-UY-A78K-01,2385773,p.?,c.424-2A>G,Urinary tract,Bladder,NS,Carcinoma,NS,NS,-,413,Confirmed Somatic,Tumour Sample,Unknown,10:56359534..56359534
+ZWINT,ENST00000373944.7,No,RK216_C01,2194683,p.?,c.424-15C>T,Liver,NS,NS,Carcinoma,NS,NS,-,322,Confirmed Somatic,Unknown,Unknown,10:56359547..56359547
+ZWINT,ENST00000373944.7,No,T302873,2658481,p.?,c.424-53del,Large intestine,NS,NS,Carcinoma,Adenocarcinoma,NS,27149842,-,Confirmed Somatic,Unknown,Unknown,10:56359586..56359586
+ZWINT,ENST00000373944.7,No,LP6008221-DNA_C03,2789511,p.?,c.423+55G>A,Oesophagus,NS,NS,Carcinoma,Adenocarcinoma,NS,-,535,Confirmed Somatic,Tumour Sample,Unknown,10:56359632..56359632
+ZWINT,ENST00000373944.7,No,TCGA-CK-4951-01,2193432,p.?,c.423+54G>T,Large intestine,Colon,NS,Carcinoma,Adenocarcinoma,NS,22810696,376,Confirmed Somatic,Unknown,Unknown,10:56359633..56359633
+ZWINT,ENST00000373944.7,No,tumor_4124432,2634762,p.?,c.423+25G>A,Haematopoietic and lymphoid,NS,NS,Lymphoid neoplasm,NS,NS,-,440,Confirmed Somatic,Tumour Sample,Unknown,10:56359662..56359662
+ZWINT,ENST00000373944.7,No,CHG-14-15016T,2634332,p.?,c.423+15C>A,Liver,NS,NS,Other,Neoplasm,NS,-,660,Confirmed Somatic,Tumour Sample,Unknown,10:56359672..56359672
+ZWINT,ENST00000373944.7,No,GCYC_099_T,2747660,p.?,c.423+9A>T,Stomach,NS,NS,Carcinoma,NS,NS,-,683,Confirmed Somatic,Tumour Sample,Unknown,10:56359678..56359678
+ZWINT,ENST00000373944.7,No,5-149,2950149,p.?,c.423+4C>T,Small intestine,Duodenum,NS,Carcinoma,Adenocarcinoma,NS,36991000,-,Confirmed Somatic,Tumour Sample,Unknown,10:56359683..56359683
+ZWINT,ENST00000373944.7,No,GBNEC_14,2907845,p.?,c.423+3del,Biliary tract,Gallbladder,NS,Carcinoma,Small cell carcinoma,NS,33563892,-,Variant of unknown origin,Tumour Sample,Unknown,10:56359684..56359684
+ZWINT,ENST00000373944.7,No,TCGA-18-4083-01,1780446,p.?,c.423+1G>T,Lung,NS,NS,Carcinoma,Squamous cell carcinoma,NS,-,418,Variant of unknown origin,Tumour Sample,Unknown,10:56359686..56359686
+ZWINT,ENST00000373944.7,No,T3643,2658254,p.Q139H,c.417G>T,Large intestine,NS,NS,Carcinoma,Adenocarcinoma,NS,27149842,-,Confirmed Somatic,Unknown,Unknown,10:56359693..56359693
+ZWINT,ENST00000373944.7,No,TCGA-78-7159-01,1914063,p.Q139H,c.417G>T,Lung,Right upper lobe,NS,Carcinoma,Adenocarcinoma,NS,-,417,Previously Reported,Tumour Sample,Unknown,10:56359693..56359693
+ZWINT,ENST00000373944.7,No,TUD-DA-781,2866065,p.L138=,c.414C>A,Small intestine,Duodenum,NS,Carcinoma,Adenocarcinoma,NS,26804919,-,Confirmed Somatic,Tumour Sample,Unknown,10:56359696..56359696
+ZWINT,ENST00000373944.7,No,TCGA-GN-A8LK-06,2340243,p.L138=,c.414C>T,Skin,NS,NS,Malignant melanoma,NS,NS,-,540,Confirmed Somatic,Unknown,Unknown,10:56359696..56359696
+ZWINT,ENST00000373944.7,No,TCGA-12-0778-01,2178256,p.Q137E,c.409C>G,Central nervous system,Brain,NS,Glioma,Astrocytoma Grade IV,Glioblastoma multiforme,-,329,Confirmed Somatic,Unknown,Unknown,10:56359701..56359701
+ZWINT,ENST00000373944.7,No,114,2748086,p.A134T,c.400G>A,Stomach,NS,NS,Carcinoma,NS,NS,-,683,Confirmed Somatic,Tumour Sample,Unknown,10:56359710..56359710
+ZWINT,ENST00000373944.7,No,ESO-114,1890886,p.R132L,c.395G>T,Oesophagus,NS,NS,Carcinoma,Adenocarcinoma,NS,23525077,-,Variant of unknown origin,Tumour Sample,Unknown,10:56359715..56359715
+ZWINT,ENST00000373944.7,No,GBNEC_14,2907845,p.R132Q,c.395G>A,Biliary tract,Gallbladder,NS,Carcinoma,Small cell carcinoma,NS,33563892,-,Variant of unknown origin,Tumour Sample,Unknown,10:56359715..56359715
+ZWINT,ENST00000373944.7,No,A7,2409505,p.R132W,c.394C>T,Lung,NS,NS,Carcinoma,Adenocarcinoma,NS,25112956,-,Confirmed Somatic,Tumour Sample,Unknown,10:56359716..56359716
+ZWINT,ENST00000373944.7,No,TCGA-DI-A1NO-01,2198401,p.R132W,c.394C>T,Endometrium,NS,NS,Carcinoma,Endometrioid carcinoma,NS,-,419,Confirmed Somatic,Unknown,Unknown,10:56359716..56359716
+ZWINT,ENST00000373944.7,No,T2410,2658468,p.R132W,c.394C>T,Large intestine,NS,NS,Carcinoma,Adenocarcinoma,NS,27149842,-,Confirmed Somatic,Unknown,Unknown,10:56359716..56359716
+ZWINT,ENST00000373944.7,No,GCYC_003_T,2747628,p.T129I,c.386C>T,Stomach,NS,NS,Carcinoma,NS,NS,-,683,Confirmed Somatic,Tumour Sample,Unknown,10:56359724..56359724
+ZWINT,ENST00000373944.7,No,HCC-121_LR,2951182,p.R128Q,c.383G>A,Thyroid,NS,NS,Carcinoma,Hurthle cell carcinoma,NS,30107175,-,Confirmed Somatic,Tumour Sample,Unknown,10:56359727..56359727
+ZWINT,ENST00000373944.7,No,TCGA-AG-3906-01,2386372,p.R128L,c.383G>T,Large intestine,Rectum,NS,Carcinoma,Adenocarcinoma,NS,-,375,Confirmed Somatic,Tumour Sample,Unknown,10:56359727..56359727
+ZWINT,ENST00000373944.7,No,PD42114a,2894823,p.R128W,c.382C>T,Skin,Head neck,NS,Malignant melanoma,Superficial spreading,NS,33024263,-,Confirmed Somatic,Tumour Sample,Unknown,10:56359728..56359728
+ZWINT,ENST00000373944.7,No,WGC110987D,3025883,p.Q125H,c.375G>C,Oesophagus,NS,NS,Carcinoma,Squamous cell carcinoma,NS,32398863,-,Confirmed Somatic,Tumour Sample,Heterozygous,10:56359735..56359735
+ZWINT,ENST00000373944.7,No,PS267_rec,2961796,p.A124V,c.371C>T,Central nervous system,Brain,NS,Glioma,Astrocytoma Grade IV,Glioblastoma multiforme,37792958,-,Confirmed Somatic,Tumour Sample,Unknown,10:56359739..56359739
+ZWINT,ENST00000373944.7,No,CGLU204,2948194,p.E122G,c.365A>G,Lung,NS,NS,Carcinoma,Squamous cell carcinoma,NS,29658848,-,Confirmed Somatic,Tumour Sample,Unknown,10:56359745..56359745
+ZWINT,ENST00000373944.7,No,TCGA-EO-A3KX-01,2386240,p.E122G,c.365A>G,Endometrium,NS,NS,Carcinoma,Endometrioid carcinoma,NS,-,419,Confirmed Somatic,Tumour Sample,Unknown,10:56359745..56359745
+ZWINT,ENST00000373944.7,No,TCGA-77-7140-01,2195041,p.E122K,c.364G>A,Lung,NS,NS,Carcinoma,Squamous cell carcinoma,NS,-,418,Confirmed Somatic,Unknown,Unknown,10:56359746..56359746
+ZWINT,ENST00000373944.7,No,44,2748016,p.Q120=,c.360G>A,Stomach,NS,NS,Carcinoma,NS,NS,-,683,Confirmed Somatic,Tumour Sample,Unknown,10:56359750..56359750
+ZWINT,ENST00000373944.7,No,T418,2658553,p.Q120E,c.358C>G,Large intestine,NS,NS,Carcinoma,Adenocarcinoma,NS,27149842,-,Confirmed Somatic,Unknown,Unknown,10:56359752..56359752
+ZWINT,ENST00000373944.7,No,T2765,2658653,p.K116*,c.346A>T,Large intestine,NS,NS,Carcinoma,Adenocarcinoma,NS,27149842,-,Confirmed Somatic,Unknown,Unknown,10:56359764..56359764
+ZWINT,ENST00000373944.7,No,TCGA-D1-A176-01,1783521,p.T115I,c.344C>T,Endometrium,NS,NS,Carcinoma,Endometrioid carcinoma,NS,-,419,Confirmed Somatic,Tumour Sample,Unknown,10:56359766..56359766
+ZWINT,ENST00000373944.7,No,J30_T,2194956,p.A109S,c.325G>T,Lung,NS,NS,Carcinoma,Squamous cell carcinoma,NS,-,583,Confirmed Somatic,Unknown,Unknown,10:56359785..56359785
+ZWINT,ENST00000373944.7,No,GCTK_325_T,2747421,p.E108Q,c.322G>C,Stomach,NS,NS,Carcinoma,NS,NS,-,683,Confirmed Somatic,Tumour Sample,Unknown,10:56359788..56359788
+ZWINT,ENST00000373944.7,No,TCGA-EB-A3Y6-01,2121593,p.E108K,c.322G>A,Skin,NS,NS,Malignant melanoma,NS,NS,-,540,Confirmed Somatic,Unknown,Unknown,10:56359788..56359788
+ZWINT,ENST00000373944.7,No,GC_325T-GC_325N,2324583,p.E108Q,c.322G>C,Stomach,NS,NS,Carcinoma,Diffuse adenocarcinoma,NS,24816255,-,Confirmed Somatic,Tumour Sample,Unknown,10:56359788..56359788
+ZWINT,ENST00000373944.7,No,TCGA-XK-AAIW-01,2339713,p.H106=,c.318C>T,Prostate,NS,NS,Carcinoma,Adenocarcinoma,NS,-,435,Confirmed Somatic,Tumour Sample,Unknown,10:56359792..56359792
+ZWINT,ENST00000373944.7,No,TCGA-85-8481-01,2195168,p.E105Q,c.313G>C,Lung,NS,NS,Carcinoma,Squamous cell carcinoma,NS,-,418,Confirmed Somatic,Unknown,Unknown,10:56359797..56359797
+ZWINT,ENST00000373944.7,No,ILMN28,2816788,p.T102A,c.304A>G,Large intestine,Colon,Right,Other,Carcinoma in situ,NS,29937994,-,Confirmed Somatic,Tumour Sample,Unknown,10:56359806..56359806
+ZWINT,ENST00000373944.7,No,TCGA-AX-A05Z-01,1783365,p.A101V,c.302C>T,Endometrium,NS,NS,Carcinoma,Endometrioid carcinoma,NS,-,419,Confirmed Somatic,Tumour Sample,Unknown,10:56359808..56359808
+ZWINT,ENST00000373944.7,No,LUAD-5V8LT,1765104,p.A101S,c.301G>T,Lung,NS,NS,Carcinoma,Adenocarcinoma,NS,22980975,-,Variant of unknown origin,Tumour Sample,Unknown,10:56359809..56359809
+ZWINT,ENST00000373944.7,No,D1122,2963695,p.K93N,c.279G>T,Central nervous system,Brain,NS,Glioma,Astrocytoma Grade IV,Glioblastoma multiforme,25642631,-,Confirmed Somatic,Unknown,Unknown,10:56359831..56359831
+ZWINT,ENST00000373944.7,No,TCGA-EY-A215-01,2198342,p.A92T,c.274G>A,Endometrium,NS,NS,Carcinoma,Endometrioid carcinoma,NS,-,419,Confirmed Somatic,Unknown,Unknown,10:56359836..56359836
+ZWINT,ENST00000373944.7,No,5-148,2950148,p.A91T,c.271G>A,Small intestine,Duodenum,NS,Carcinoma,Adenocarcinoma,NS,36991000,-,Confirmed Somatic,Tumour Sample,Unknown,10:56359839..56359839
+ZWINT,ENST00000373944.7,No,NBE55,2974755,p.I90F,c.268A>T,Autonomic ganglia,NS,NS,Neuroblastoma,NS,NS,36973454,-,Confirmed Somatic,Tumour Sample,Unknown,10:56359842..56359842
+ZWINT,ENST00000373944.7,No,DD107_Org,2749229,p.I90F,c.268A>T,Stomach,NS,NS,Carcinoma,Adenocarcinoma,NS,29703791,-,Confirmed Somatic,Cultured,Heterozygous,10:56359842..56359842
+ZWINT,ENST00000373944.7,No,DD107_PT,2749230,p.I90F,c.268A>T,Stomach,NS,NS,Carcinoma,Adenocarcinoma,NS,29703791,-,Confirmed Somatic,Tumour Sample,Heterozygous,10:56359842..56359842
+ZWINT,ENST00000373944.7,No,TCGA-E9-A295-01,1900230,p.A89E,c.266C>A,Breast,NS,NS,Carcinoma,NS,NS,-,414,Confirmed Somatic,Tumour Sample,Unknown,10:56359844..56359844
+ZWINT,ENST00000373944.7,No,TCGA-53-7624-01,1913996,p.A89P,c.265G>C,Lung,Right upper lobe,NS,Carcinoma,Adenocarcinoma,NS,-,417,Variant of unknown origin,Tumour Sample,Unknown,10:56359845..56359845
+ZWINT,ENST00000373944.7,No,PCSI_0492_Pa_P_526,2340639,p.Q87*,c.259C>T,Pancreas,NS,NS,Carcinoma,Ductal carcinoma,NS,-,382,Confirmed Somatic,Tumour Sample,Unknown,10:56359851..56359851
+ZWINT,ENST00000373944.7,No,TCGA-DD-AACZ-01,2340380,p.?,c.257-2A>T,Liver,NS,NS,Carcinoma,Hepatocellular carcinoma,NS,-,628,Confirmed Somatic,Tumour Sample,Unknown,10:56359855..56359855
+ZWINT,ENST00000373944.7,No,273,2748245,p.?,c.257-62G>A,Stomach,NS,NS,Carcinoma,NS,NS,-,683,Confirmed Somatic,Tumour Sample,Unknown,10:56359915..56359915
+ZWINT,ENST00000373944.7,No,GCYC_049_T,2747639,p.?,c.256+79C>T,Stomach,NS,NS,Carcinoma,NS,NS,-,683,Confirmed Somatic,Tumour Sample,Unknown,10:56359939..56359939
+ZWINT,ENST00000373944.7,No,RK308_C01,2194686,p.?,c.256+46G>T,Liver,NS,NS,Carcinoma,NS,NS,-,322,Confirmed Somatic,Unknown,Unknown,10:56359972..56359972
+ZWINT,ENST00000373944.7,No,140,2748112,p.?,c.256+9G>T,Stomach,NS,NS,Carcinoma,NS,NS,-,683,Confirmed Somatic,Tumour Sample,Unknown,10:56360009..56360009
+ZWINT,ENST00000373944.7,No,CH31,2963851,p.?,c.256+1G>A,Prostate,NS,NS,Carcinoma,NS,NS,28927585,-,Confirmed Somatic,Tumour Sample,Unknown,10:56360017..56360017
+ZWINT,ENST00000373944.7,No,TCGA-05-4427-01,1780073,p.?,c.256+1G>T,Lung,NS,NS,Carcinoma,Adenocarcinoma,NS,-,417,Variant of unknown origin,Tumour Sample,Unknown,10:56360017..56360017
+ZWINT,ENST00000373944.7,No,FP1705100127LD02,3025529,p.T84=,c.252G>A,Oesophagus,NS,NS,Carcinoma,Squamous cell carcinoma,NS,32398863,-,Confirmed Somatic,Tumour Sample,Heterozygous,10:56360022..56360022
+ZWINT,ENST00000373944.7,No,E51,1953812,p.T84R,c.251C>G,Haematopoietic and lymphoid,NS,NS,Lymphoid neoplasm,Acute lymphoblastic T cell leukaemia,NS,23603912,-,Confirmed Somatic,Tumour Sample,Unknown,10:56360023..56360023
+ZWINT,ENST00000373944.7,No,TCGA-A5-A0VP-01,1783327,p.T84M,c.251C>T,Endometrium,NS,NS,Carcinoma,Endometrioid carcinoma,NS,-,419,Variant of unknown origin,Tumour Sample,Heterozygous,10:56360023..56360023
+ZWINT,ENST00000373944.7,No,TCGA-A5-A0R8-01,1783323,p.D83N,c.247G>A,Endometrium,NS,NS,Carcinoma,Endometrioid carcinoma,NS,-,419,Confirmed Somatic,Tumour Sample,Unknown,10:56360027..56360027
+ZWINT,ENST00000373944.7,No,S00934_1,2480830,p.D77Y,c.229G>T,Lung,NS,NS,Carcinoma,Small cell carcinoma,NS,26168399,-,Confirmed Somatic,Tumour Sample,Unknown,10:56360045..56360045
+ZWINT,ENST00000373944.7,No,ESCC_117,2479611,p.L76F,c.226C>T,Oesophagus,NS,NS,Carcinoma,Squamous cell carcinoma,NS,26873401,-,Confirmed Somatic,Unknown,Unknown,10:56360048..56360048
+ZWINT,ENST00000373944.7,No,SC6470,2949817,p.G75V,c.224G>T,Lung,NS,NS,Carcinoma,Adenocarcinoma,NS,25765070,-,Confirmed Somatic,Tumour Sample,Unknown,10:56360050..56360050
+ZWINT,ENST00000373944.7,No,MM-0573-T,2961536,p.G75D,c.224G>A,Haematopoietic and lymphoid,NS,NS,Lymphoid neoplasm,Plasma cell myeloma,NS,24434212,-,Confirmed Somatic,Tumour Sample,Heterozygous,10:56360050..56360050
+ZWINT,ENST00000373944.7,No,TCGA-D3-A2JK-06,2121520,p.K74N,c.222G>T,Skin,NS,NS,Malignant melanoma,NS,NS,-,540,Confirmed Somatic,Unknown,Unknown,10:56360052..56360052
+ZWINT,ENST00000373944.7,No,TCGA-XK-AAIW-01,2339713,p.K74N,c.222G>T,Prostate,NS,NS,Carcinoma,Adenocarcinoma,NS,-,435,Confirmed Somatic,Tumour Sample,Unknown,10:56360052..56360052
+ZWINT,ENST00000373944.7,No,H1573,2776317,p.K74M,c.221A>T,Lung,NS,NS,Carcinoma,Adenocarcinoma,NS,29681454,-,Variant of unknown origin,Cultured,Unknown,10:56360053..56360053
+ZWINT,ENST00000373944.7,No,TCGA-XF-A9T0-01,2339528,p.T72A,c.214A>G,Urinary tract,Bladder,NS,Carcinoma,NS,NS,-,413,Confirmed Somatic,Tumour Sample,Unknown,10:56360060..56360060
+ZWINT,ENST00000373944.7,No,TCGA-BR-6452-01,2197940,p.L67M,c.199C>A,Stomach,NS,NS,Carcinoma,Adenocarcinoma,NS,-,541,Confirmed Somatic,Unknown,Unknown,10:56360075..56360075
+ZWINT,ENST00000373944.7,No,TCGA-34-5239-01,1781283,p.I66V,c.196A>G,Lung,NS,NS,Carcinoma,Squamous cell carcinoma,NS,-,418,Confirmed Somatic,Tumour Sample,Unknown,10:56360078..56360078
+ZWINT,ENST00000373944.7,No,S00732,2864336,p.Q64=,c.192G>A,Lung,NS,NS,Carcinoma,Combined large cell neuroendocrine carcinoma,Squamous cell carcinoma,29535388,-,Confirmed Somatic,Tumour Sample,Unknown,10:56360082..56360082
+ZWINT,ENST00000373944.7,No,TCGA-50-6593-01,1780171,p.Q64H,c.192G>T,Lung,NS,NS,Carcinoma,Adenocarcinoma,NS,-,417,Variant of unknown origin,Tumour Sample,Unknown,10:56360082..56360082
+ZWINT,ENST00000373944.7,No,TCGA-D1-A167-01,1783503,p.L63=,c.189G>A,Endometrium,NS,NS,Carcinoma,Endometrioid carcinoma,NS,-,419,Confirmed Somatic,Tumour Sample,Unknown,10:56360085..56360085
+ZWINT,ENST00000373944.7,No,CSCC-62-T,2292493,p.F62=,c.186C>T,Skin,Head neck,NS,Carcinoma,Squamous cell carcinoma,NS,25303977,-,Confirmed Somatic,Tumour Sample,Heterozygous,10:56360088..56360088
+ZWINT,ENST00000373944.7,No,SJALL043850-R,2824118,p.A60=,c.180G>A,Haematopoietic and lymphoid,NS,NS,Lymphoid neoplasm,Acute lymphoblastic B cell leukaemia,NS,31697823,-,Confirmed Somatic,Tumour Sample,Unknown,10:56360094..56360094
+ZWINT,ENST00000373944.7,No,IGC-11-1044,2662352,p.Q58*,c.172C>T,Lung,NS,NS,Carcinoma,Adenocarcinoma,NS,27923066,-,Confirmed Somatic,Tumour Sample,Unknown,10:56360102..56360102
+ZWINT,ENST00000373944.7,No,T3225,2296200,p.C54=,c.162C>T,Large intestine,Colon,Descending,Carcinoma,Adenocarcinoma,NS,25344691,-,Confirmed Somatic,Unknown,Unknown,10:56360112..56360112
+ZWINT,ENST00000373944.7,No,T3225,2658278,p.C54=,c.162C>T,Large intestine,NS,NS,Carcinoma,Adenocarcinoma,NS,27149842,-,Confirmed Somatic,Unknown,Unknown,10:56360112..56360112
+ZWINT,ENST00000373944.7,No,43,2748015,p.C54Y,c.161G>A,Stomach,NS,NS,Carcinoma,NS,NS,-,683,Confirmed Somatic,Tumour Sample,Unknown,10:56360113..56360113
+ZWINT,ENST00000373944.7,No,TCGA-E7-A7XN-01,2339199,p.L53=,c.159C>G,Urinary tract,Bladder,NS,Carcinoma,NS,NS,-,413,Confirmed Somatic,Tumour Sample,Unknown,10:56360115..56360115
+ZWINT,ENST00000373944.7,No,ESCC_41A,2948707,p.K48N,c.144G>C,Oesophagus,NS,NS,Carcinoma,Squamous cell carcinoma,NS,28608921,-,Confirmed Somatic,Tumour Sample,Unknown,10:56360130..56360130
+ZWINT,ENST00000373944.7,No,TCGA-PG-A915-01,2339771,p.K48N,c.144G>C,Endometrium,NS,NS,Carcinoma,Endometrioid carcinoma,NS,-,419,Confirmed Somatic,Tumour Sample,Unknown,10:56360130..56360130
+ZWINT,ENST00000373944.7,No,TCGA-BR-7958-01,2198028,p.Q47H,c.141G>C,Stomach,NS,NS,Carcinoma,Adenocarcinoma,NS,-,541,Confirmed Somatic,Unknown,Unknown,10:56360133..56360133
+ZWINT,ENST00000373944.7,No,Pat_59_B,2492899,p.S46F,c.137C>T,NS,NS,NS,Malignant melanoma,NS,NS,24265153,-,Confirmed Somatic,Tumour Sample,Unknown,10:56360137..56360137
+ZWINT,ENST00000373944.7,No,ZZUFHECRKL-G051T,2456975,p.?,c.133-33G>A,Oesophagus,NS,NS,Carcinoma,Squamous cell carcinoma,NS,-,582,Confirmed Somatic,Tumour Sample,Unknown,10:56360174..56360174
+ZWINT,ENST00000373944.7,No,813T,2507137,p.?,c.133-45T>C,Pancreas,NS,NS,Carcinoid-endocrine tumour,NS,NS,-,661,Confirmed Somatic,Tumour Sample,Unknown,10:56360186..56360186
+ZWINT,ENST00000373944.7,No,C0083T,2197731,p.?,c.133-53G>C,Kidney,NS,NS,NS,NS,NS,-,588,Confirmed Somatic,Unknown,Unknown,10:56360194..56360194
+ZWINT,ENST00000373944.7,No,XG10,2809774,p.E41D,c.123G>C,Haematopoietic and lymphoid,NS,NS,Lymphoid neoplasm,Plasmacytoma,NS,30545397,-,Variant of unknown origin,Cultured,Heterozygous,10:56360302..56360302
+ZWINT,ENST00000373944.7,No,TCGA-D7-8570-01,2197965,p.V40L,c.118G>C,Stomach,NS,NS,Carcinoma,Adenocarcinoma,NS,-,541,Confirmed Somatic,Unknown,Unknown,10:56360307..56360307
+ZWINT,ENST00000373944.7,No,LP6005935-DNA_C03,2385856,p.K37=,c.111G>A,Oesophagus,NS,NS,Carcinoma,Adenocarcinoma,NS,-,535,Confirmed Somatic,Tumour Sample,Unknown,10:56360314..56360314
+ZWINT,ENST00000373944.7,No,TCGA-BG-A3EW-01,2198354,p.A36V,c.107C>T,Endometrium,NS,NS,Carcinoma,Endometrioid carcinoma,NS,-,419,Confirmed Somatic,Unknown,Unknown,10:56360318..56360318
+ZWINT,ENST00000373944.7,No,NB-3264,1898418,p.A32T,c.94G>A,Autonomic ganglia,NS,NS,Neuroblastoma,NS,NS,23334666,-,Variant of unknown origin,Unknown,Unknown,10:56360331..56360331
+ZWINT,ENST00000373944.7,No,PAILNU_D,2976565,p.A32T,c.94G>A,Autonomic ganglia,NS,NS,Neuroblastoma,NS,NS,33056981,-,Variant of unknown origin,Tumour Sample,Unknown,10:56360331..56360331
+ZWINT,ENST00000373944.7,No,TCGA-CJ-4916-01,1779981,p.E31Q,c.91G>C,Kidney,NS,NS,Carcinoma,Clear cell renal cell carcinoma,NS,-,416,Confirmed Somatic,Tumour Sample,Unknown,10:56360334..56360334
+ZWINT,ENST00000373944.7,No,TCGA-AX-A2H4-01,2198382,p.E30*,c.88G>T,Endometrium,NS,NS,Carcinoma,Endometrioid carcinoma,NS,-,419,Confirmed Somatic,Unknown,Unknown,10:56360337..56360337
+ZWINT,ENST00000373944.7,No,32,2748004,p.Q29H,c.87G>T,Stomach,NS,NS,Carcinoma,NS,NS,-,683,Confirmed Somatic,Tumour Sample,Unknown,10:56360338..56360338
+ZWINT,ENST00000373944.7,No,2948907,2948907,p.L28R,c.83T>G,Skin,NS,NS,Malignant melanoma,NS,NS,26359337,-,Confirmed Somatic,Tumour Sample,Unknown,10:56360342..56360342
+ZWINT,ENST00000373944.7,No,115-1917-01TD,2385258,p.G27=,c.81C>T,Haematopoietic and lymphoid,NS,NS,Lymphoid neoplasm,Chronic lymphocytic leukaemia-small lymphocytic lymphoma,NS,-,340,Confirmed Somatic,Tumour Sample,Unknown,10:56360344..56360344
+ZWINT,ENST00000373944.7,No,H015-TF,3004013,p.V26L,c.76G>T,Large intestine,Caecum,NS,Carcinoma,Adenocarcinoma,NS,32217638,-,Confirmed Somatic,Tumour Sample,Unknown,10:56360349..56360349
+ZWINT,ENST00000373944.7,No,2975406,2975406,p.P25L,c.74C>T,Haematopoietic and lymphoid,NS,NS,Lymphoid neoplasm,Plasma cell myeloma,NS,35045690,-,Variant of unknown origin,Tumour Sample,Unknown,10:56360351..56360351
+ZWINT,ENST00000373944.7,No,587376,1766805,p.I22T,c.65T>C,Large intestine,Colon,NS,Carcinoma,Adenocarcinoma,NS,22895193,-,Confirmed Somatic,Tumour Sample,Unknown,10:56360360..56360360
+ZWINT,ENST00000373944.7,No,2948348,2948348,p.A20=,c.60A>T,Lung,NS,NS,Carcinoma,Non small cell carcinoma,NS,29657128,-,Confirmed Somatic,Tumour Sample,Unknown,10:56360365..56360365
+ZWINT,ENST00000373944.7,No,TCGA-NC-A5HT-01,2385914,p.V19E,c.56T>A,Lung,NS,NS,Carcinoma,Squamous cell carcinoma,NS,-,418,Confirmed Somatic,Tumour Sample,Unknown,10:56360369..56360369
+ZWINT,ENST00000373944.7,No,TCGA-BH-A0HP-01,1779638,p.E18K,c.52G>A,Breast,NS,NS,Carcinoma,NS,NS,-,414,Confirmed Somatic,Tumour Sample,Unknown,10:56360373..56360373
+ZWINT,ENST00000373944.7,No,TCGA-92-8063-01,2195078,p.E14D,c.42G>T,Lung,NS,NS,Carcinoma,Squamous cell carcinoma,NS,-,418,Confirmed Somatic,Unknown,Unknown,10:56360383..56360383
+ZWINT,ENST00000373944.7,No,275,2748247,p.?,c.42-3C>T,Stomach,NS,NS,Carcinoma,NS,NS,-,683,Confirmed Somatic,Tumour Sample,Unknown,10:56360386..56360386
+ZWINT,ENST00000373944.7,No,YYY-301T,2633952,p.?,c.42-15T>C,Stomach,NS,NS,Carcinoma,NS,NS,-,371,Confirmed Somatic,Tumour Sample,Unknown,10:56360398..56360398
+ZWINT,ENST00000373944.7,No,FP1707040179LD01,3025631,p.?,c.42-60C>G,Oesophagus,NS,NS,Carcinoma,Squamous cell carcinoma,NS,32398863,-,Confirmed Somatic,Tumour Sample,Heterozygous,10:56360443..56360443
+ZWINT,ENST00000373944.7,No,279,2748251,p.?,c.42-103A>G,Stomach,NS,NS,Carcinoma,NS,NS,-,683,Confirmed Somatic,Tumour Sample,Unknown,10:56360486..56360486
+ZWINT,ENST00000373944.7,No,2014_Lung_sq_40_T,2744911,p.?,c.42-103A>G,Lung,NS,NS,Carcinoma,NS,NS,-,583,Confirmed Somatic,Tumour Sample,Unknown,10:56360486..56360486
+ZWINT,ENST00000373944.7,No,5-155,2950155,p.?,c.42-143C>A,Small intestine,Duodenum,NS,Carcinoma,Adenocarcinoma,NS,36991000,-,Confirmed Somatic,Tumour Sample,Unknown,10:56360526..56360526
+ZWINT,ENST00000373944.7,No,WGC109810,3025836,p.?,c.42-216C>T,Oesophagus,NS,NS,Carcinoma,Squamous cell carcinoma,NS,32398863,-,Confirmed Somatic,Tumour Sample,Heterozygous,10:56360599..56360599
+ZWINT,ENST00000373944.7,No,PCSI_0107_Pa_P_526,2507097,p.?,c.42-230G>C,Pancreas,NS,NS,Carcinoma,NS,NS,-,382,Confirmed Somatic,Tumour Sample,Unknown,10:56360613..56360613
+ZWINT,ENST00000373944.7,No,LP6008269-DNA_E01,2688150,p.?,c.42-302C>A,Oesophagus,NS,NS,Carcinoma,Adenocarcinoma,NS,-,535,Confirmed Somatic,Tumour Sample,Unknown,10:56360685..56360685
+ZWINT,ENST00000373944.7,No,CPCG0406-F1,2688220,p.?,c.41+248G>T,Prostate,NS,NS,Carcinoma,Adenocarcinoma,NS,-,537,Confirmed Somatic,Tumour Sample,Unknown,10:56360948..56360948
+ZWINT,ENST00000373944.7,No,B5,3014317,p.?,c.41+167C>T,Oesophagus,NS,NS,Carcinoma,Adenocarcinoma,NS,38637560,-,Variant of unknown origin,Tumour Sample,Unknown,10:56361029..56361029
+ZWINT,ENST00000373944.7,No,TCGA-AA-A01R-01,1651119,p.?,c.41+114C>T,Large intestine,Colon,Ascending,Carcinoma,Adenocarcinoma,NS,22810696,376,Confirmed Somatic,Unknown,Unknown,10:56361082..56361082
+ZWINT,ENST00000373944.7,No,G_2-106,2950132,p.?,c.41+106C>T,Small intestine,Duodenum,NS,Other,Brunner gland hyperplasia,NS,36991000,-,Confirmed Somatic,Tumour Sample,Unknown,10:56361090..56361090
+ZWINT,ENST00000373944.7,No,G_2_1-106,2950133,p.?,c.41+106C>T,Small intestine,Duodenum,NS,Other,Brunner gland hyperplasia,NS,36991000,-,Confirmed Somatic,Tumour Sample,Unknown,10:56361090..56361090
+ZWINT,ENST00000373944.7,No,CHC2111T,2339315,p.?,c.41+45G>T,Liver,NS,NS,Carcinoma,Hepatocellular carcinoma,NS,-,381,Confirmed Somatic,Tumour Sample,Unknown,10:56361151..56361151
+ZWINT,ENST00000373944.7,No,5-148,2950148,p.?,c.41+34G>A,Small intestine,Duodenum,NS,Carcinoma,Adenocarcinoma,NS,36991000,-,Confirmed Somatic,Tumour Sample,Unknown,10:56361162..56361162
+ZWINT,ENST00000373944.7,No,2640258,2640258,p.A12D,c.35C>A,Large intestine,Colon,Ascending,Carcinoma,Adenocarcinoma,NS,27612425,-,Confirmed Somatic,Tumour Sample,Unknown,10:56361202..56361202
+ZWINT,ENST00000373944.7,No,TCGA-55-A490-01,2194886,p.A10D,c.29C>A,Lung,NS,NS,Carcinoma,Adenocarcinoma,NS,-,417,Confirmed Somatic,Unknown,Unknown,10:56361208..56361208
+ZWINT,ENST00000373944.7,No,LC_C26,1863707,p.A10P,c.28G>C,Lung,NS,NS,Carcinoma,Adenocarcinoma,NS,22975805,-,Confirmed Somatic,Tumour Sample,Unknown,10:56361209..56361209
+ZWINT,ENST00000373944.7,No,TCGA-BR-A452-01,2198004,p.E9*,c.25G>T,Stomach,NS,NS,Carcinoma,Adenocarcinoma,NS,-,541,Confirmed Somatic,Unknown,Unknown,10:56361212..56361212
+ZWINT,ENST00000373944.7,No,MBC_98,2662806,p.A8=,c.24G>A,Breast,NS,NS,Carcinoma,ER-PR-positive carcinoma,NS,28027327,-,Confirmed Somatic,Tumour Sample,Unknown,10:56361213..56361213
+ZWINT,ENST00000373944.7,No,BC03-tumour,2668054,p.A8=,c.24G>A,Breast,NS,NS,Carcinoma,NS,NS,27535334,-,Confirmed Somatic,Tumour Sample,Heterozygous,10:56361213..56361213
+ZWINT,ENST00000373944.7,No,TCGA-BA-5555-01,2193679,p.A8T,c.22G>A,Upper aerodigestive tract,Head neck,NS,Carcinoma,Squamous cell carcinoma,NS,-,627,Confirmed Somatic,Unknown,Unknown,10:56361215..56361215
+ZWINT,ENST00000373944.7,No,TCGA-05-4397-01,1780059,p.E7K,c.19G>A,Lung,NS,NS,Carcinoma,Adenocarcinoma,NS,-,417,Variant of unknown origin,Tumour Sample,Unknown,10:56361218..56361218
+ZWINT,ENST00000373944.7,No,SJAMLM7005,2543281,p.E5=,c.15G>A,Haematopoietic and lymphoid,NS,NS,Haematopoietic neoplasm,Acute myeloid leukaemia,M7,23153540,-,Confirmed Somatic,Tumour Sample,Unknown,10:56361222..56361222
+ZWINT,ENST00000373944.7,No,SJAMLM7005,2301039,p.E5=,c.15G>A,Haematopoietic and lymphoid,NS,NS,Haematopoietic neoplasm,Acute myeloid leukaemia,M7,-,637,Previously Reported,Unknown,Unknown,10:56361222..56361222
+ZWINT,ENST00000373944.7,No,TCGA-RQ-A6JB-01,2269807,p.E5G,c.14A>G,Haematopoietic and lymphoid,NS,NS,Lymphoid neoplasm,Diffuse large B cell lymphoma,NS,-,632,Confirmed Somatic,Unknown,Unknown,10:56361223..56361223
+ZWINT,ENST00000373944.7,No,3T41,2745736,p.A4=,c.12G>A,Oesophagus,NS,NS,Carcinoma,NS,NS,-,582,Confirmed Somatic,Tumour Sample,Unknown,10:56361225..56361225
+ZWINT,ENST00000373944.7,No,3N41-VS-3T41,2582925,p.A4=,c.12G>A,Oesophagus,NS,NS,Carcinoma,Squamous cell carcinoma,NS,26759717,-,Confirmed Somatic,Tumour Sample,Unknown,10:56361225..56361225
+ZWINT,ENST00000373944.7,No,3N41-VS-3T41,2363608,p.A4=,c.12G>A,Oesophagus,NS,NS,Carcinoma,Squamous cell carcinoma,NS,25839328,-,Confirmed Somatic,Unknown,Unknown,10:56361225..56361225
+ZWINT,ENST00000373944.7,No,T1230,2658319,p.A4=,c.12G>A,Large intestine,NS,NS,Carcinoma,Adenocarcinoma,NS,27149842,-,Confirmed Somatic,Unknown,Unknown,10:56361225..56361225
+ZWINT,ENST00000373944.7,No,pros_04_dx,2688206,p.A4S,c.10G>T,Haematopoietic and lymphoid,NS,NS,Haematopoietic neoplasm,Acute myeloid leukaemia,NS,-,544,Confirmed Somatic,Tumour Sample,Unknown,10:56361227..56361227
+ZWINT,ENST00000373944.7,No,YUKAT,2439331,p.A3T,c.7G>A,Skin,NS,NS,Malignant melanoma,NS,NS,26214590,-,Confirmed Somatic,Tumour Sample,Heterozygous,10:56361230..56361230
+ZWINT,ENST00000373944.7,No,TCGA-85-8664-01,2195195,p.E2D,c.6G>T,Lung,NS,NS,Carcinoma,Squamous cell carcinoma,NS,-,418,Confirmed Somatic,Unknown,Unknown,10:56361231..56361231
+ZWINT,ENST00000373944.7,No,587256,1766760,p.E2*,c.4G>T,Large intestine,Colon,NS,Carcinoma,Adenocarcinoma,NS,22895193,-,Confirmed Somatic,Tumour Sample,Unknown,10:56361233..56361233
+ZWINT,ENST00000373944.7,No,C000-JMUDMJ,2936231,p.E2*,c.4G>T,Skin,NS,NS,Adnexal tumour,Malignant adnexal tumour,Eccrine porocarcinoma,34045664,-,Confirmed Somatic,Tumour Sample,Unknown,10:56361233..56361233
+ZWINT,ENST00000373944.7,No,CHG-13-09089T,2634309,p.?,c.-11C>A,Liver,NS,NS,Other,Neoplasm,NS,-,660,Confirmed Somatic,Tumour Sample,Unknown,10:56361247..56361247
+ZWINT,ENST00000373944.7,No,CHG-2013-27553T,2634356,p.?,c.-12G>T,Liver,NS,NS,Other,Neoplasm,NS,-,660,Confirmed Somatic,Tumour Sample,Unknown,10:56361248..56361248
+ZWINT,ENST00000373944.7,No,TCGA-XF-A8HH-01,2339782,p.?,c.-14C>T,Urinary tract,Bladder,NS,Carcinoma,NS,NS,-,413,Confirmed Somatic,Tumour Sample,Unknown,10:56361250..56361250
+ZWINT,ENST00000373944.7,No,91,2748063,p.?,c.-20T>A,Stomach,NS,NS,Carcinoma,NS,NS,-,683,Confirmed Somatic,Tumour Sample,Unknown,10:56361256..56361256
+ZWINT,ENST00000373944.7,No,pros_04_dx,2688206,p.?,c.-35T>C,Haematopoietic and lymphoid,NS,NS,Haematopoietic neoplasm,Acute myeloid leukaemia,NS,-,544,Confirmed Somatic,Tumour Sample,Unknown,10:56361271..56361271
+ZWINT,ENST00000373944.7,No,TCGA-ER-A19B-06,2121713,p.?,c.-38G>T,Skin,NS,NS,Malignant melanoma,NS,NS,-,540,Confirmed Somatic,Unknown,Unknown,10:56361274..56361274
